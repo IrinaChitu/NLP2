@@ -1,7 +1,14 @@
+import nltk
 import os
+import re
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from nltk import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
 
+
+nltk.download("omw-1.4")
 RANDOM_STATE = 42
 
 
@@ -32,3 +39,30 @@ def split_dataset(datasetPath, destinationPath, verbose=False):
         print("train shape: {}".format(X_train.shape))
         print("test shape:  {}".format(X_test.shape))
         print("val shape:   {}".format(X_val.shape))
+
+
+def normalization(song):
+    # TODO: remove this line after the dataset is properly formated
+    if type(song) != str:
+        return []
+
+    song = song.replace("_x000D_", "")
+
+    # Removing punctuation
+    song = re.sub(r"[?!.;:,#@'()…’\[\]—-]", "", song)
+
+    # Tokenize the song
+    tokens = word_tokenize(song)
+
+    # Lowercase all the words
+    tokens = [word.lower() for word in tokens]
+
+    # Lemmatization
+    wml = WordNetLemmatizer()
+    lemma = [wml.lemmatize(word) for word in tokens]
+
+    # Stop-words
+    Stopwords = set(stopwords.words("english"))
+    processed = [word for word in lemma if word not in Stopwords]
+
+    return processed
