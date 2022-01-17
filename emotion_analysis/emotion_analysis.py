@@ -1,9 +1,8 @@
-import argparse
 import csv
 import os
+import pprint
 import random as rnd
 import re
-import sys
 from string import punctuation
 
 import nltk
@@ -12,8 +11,6 @@ from nltk.corpus import wordnet as wn
 from nltk.stem import WordNetLemmatizer
 from tqdm import tqdm
 from unidecode import unidecode
-
-
 
 """
 WORD PROCESSING
@@ -27,8 +24,8 @@ WORD PROCESSING
 """
 
 def nltk_setup():
-    nltk.download('averaged_perceptron_tagger')
-    nltk.download('wordnet')
+    nltk.download('averaged_perceptron_tagger', quiet = True)
+    nltk.download('wordnet', quiet = True)
 
 
 def tag_mapping(tag):
@@ -230,11 +227,19 @@ def build_emotion_lexicon(emolex_files_dir = './emotion_analysis/lexicon_process
 
 
 class Song():
-    def __init__(self, csv_row, header = None):
+    def __init__(self, csv_row = None, header = None, lyrics = None):
+        assert (csv_row is not None and header is not None) or lyrics is not None, 'Must provide an entry from the dataset csv or provide a string containing only lyrics!'
         self.lemmatizer = WordNetLemmatizer()
         self.data = {}
-        for attribute, value in zip(header, csv_row):
-            self.data[attribute] = value
+        if lyrics is None:
+            for attribute, value in zip(header, csv_row):
+                self.data[attribute] = value
+        else:
+            self.data['artist'] = ''
+            self.data['year'] = None
+            self.data['song'] = ''
+            self.data['album'] = None
+            self.data['lyrics'] = lyrics
     
     def __str__(self):
         return str(self.data)
@@ -329,13 +334,19 @@ class Lyrics_Dataset():
 ########################################################################################################################
 
 
-LEMMATIZATION = True
 
 
 class Emo_Analysis():
-    def __init__(self):
-        self.emolex = build_emotion_lexicon(lemmatization = LEMMATIZATION)
-        self.lyrics_ds = Lyrics_Dataset()
+    def __init__(self, lexicon_processing_dir = None, load_dataset = False, dataset_csv = None):
+        if lexicon_processing_dir is None:
+            self.emolex = build_emotion_lexicon()
+        else:
+            self.emolex = build_emotion_lexicon(emolex_files_dir = lexicon_processing_dir)
+        if load_dataset:
+            if dataset_csv is None:
+                self.lyrics_ds = Lyrics_Dataset()
+            else:
+                self.lyrics_ds = Lyrics_Dataset(csv_file = dataset_csv)
 
     def analyze_song(self, artist = None, song_title = None, song = None, random = False, return_percentages = True, show_progress = True):
         if not random:
@@ -348,7 +359,7 @@ class Emo_Analysis():
         if show_progress:
             print('analyzing "{}", by {}'.format(song.data['song'], song.data['artist']))
             print('processing song content...')
-        song.process_content(lemmatization = LEMMATIZATION)
+        song.process_content(lemmatization = True)
         song_content = song.content
         # print(song_content)
         self.build_fresh_distribution()
@@ -424,8 +435,101 @@ class Emo_Analysis():
 
 
 
-if __name__ == '__main__':
+########################################################################################################################
+#################################################### APP INTEGRATION  ##################################################
+########################################################################################################################
 
+
+def analyze_new_lyrics(
+    lyrics, 
+    lexicon_processing_dir = 'emotion_analysis/lexicon_processing/nrc_emolex_v0.92'
+    ):
+    # create a new song containing only the lyrics
+    song = Song(lyrics = lyrics)
+    # instantiate an analyzer which only needs the lexicon (not the song dataset)
+    emo_analyzer = Emo_Analysis(lexicon_processing_dir)
+    # perform the emotion analysis and retrieve results
+    stats = emo_analyzer.analyze_song(song = song, show_progress = False)
+    result = {}
+    for emo, pair in stats.items():
+        # count the words which contribute to the score of the current emotion
+        words = {}
+        for word in pair[1]:
+            if word not in words:
+                words[word] = 1
+            else:
+                words[word] += 1
+        word_occurences = []
+        for word, freq in words.items():
+            word_occurences.append((word, freq))
+        word_occurences.sort(key = lambda p: p[1], reverse = True)
+        word_occurences = [p[0] + ' (x{})'.format(p[1]) for p in word_occurences]
+        result[emo] = {
+            'percentage': round(pair[0] * 100, 2),
+            'word_occur': word_occurences
+        }
+    result = {k: v for k, v in sorted(result.items(), key=lambda item: item[1]['percentage'], reverse = True)}
+    return result
+
+
+def analyze_existing_song(
+    artist,
+    song_title, 
+    lexicon_processing_dir = 'emotion_analysis/lexicon_processing/nrc_emolex_v0.92',
+    dataset_csv =  'data/dataset.csv'
+    ):
+    # instantiate an analyzer which needs both the lexicon and the song dataset
+    emo_analyzer = Emo_Analysis(lexicon_processing_dir, True, dataset_csv)
+    # fetch the existing song from the dataset
+    song = emo_analyzer.lyrics_ds.get_song(artist, song_title)
+    # perform the emotion analysis and retrieve results
+    stats = emo_analyzer.analyze_song(song = song, show_progress = False)
+    result = {}
+    for emo, pair in stats.items():
+        # count the words which contribute to the score of the current emotion
+        words = {}
+        for word in pair[1]:
+            if word not in words:
+                words[word] = 1
+            else:
+                words[word] += 1
+        word_occurences = []
+        for word, freq in words.items():
+            word_occurences.append((word, freq))
+        word_occurences.sort(key = lambda p: p[1], reverse = True)
+        word_occurences = [p[0] + ' (x{})'.format(p[1]) for p in word_occurences]
+        result[emo] = {
+            'percentage': round(pair[0] * 100, 2),
+            'word_occur': word_occurences
+        }
+    result = {k: v for k, v in sorted(result.items(), key=lambda item: item[1]['percentage'], reverse = True)}
+    return result
+
+
+def analyze_artist(
+    artist, 
+    lexicon_processing_dir = 'emotion_analysis/lexicon_processing/nrc_emolex_v0.92',
+    dataset_csv =  'data/dataset.csv'
+    ):
+    # instantiate an analyzer which needs both the lexicon and the song dataset
+    emo_analyzer = Emo_Analysis(lexicon_processing_dir, True, dataset_csv)
+    # perform the emotion analysis and retrieve results
+    stats = emo_analyzer.analyze_artist(artist, show_progress = False)
+    result = {}
+    for emo, perc in stats.items():
+        result[emo] = {
+            'percentage': round(perc * 100, 2)
+        }
+    result = {k: v for k, v in sorted(result.items(), key=lambda item: item[1]['percentage'], reverse = True)}
+    return result
+    
+
+
+
+if __name__ == '__main__':
+    
+    
+    '''
     emotion_stats_dir = './emotion_analysis/emotion_stats'
 
     per_song_csv = os.path.join(emotion_stats_dir, 'per_song_percentages.csv')
@@ -433,7 +537,6 @@ if __name__ == '__main__':
     lyrics_contrib_words_csv = os.path.join(emotion_stats_dir, 'emotion_words_from_lyrics.csv')
     
     emo_analyzer = Emo_Analysis()
-
     with open(per_song_csv, 'w') as csv_f:
         writer = csv.writer(csv_f)
         writer.writerow(['artist', 'song', 'fear', 'anger', 'anticip', 'trust', 'surprise', 'sadness', 'disgust', 'joy'])
@@ -494,60 +597,66 @@ if __name__ == '__main__':
             ])
 
 
-    # examples of analysis results for some artists/songs
     '''
-    stats = emo_analyzer.analyze_song(random = True)
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value[0] * 100, 4)) + '%', value[1])
-    print()
+    new_song_lyrics = """
+    I never believed that I would concede and let someone trample on me
+    You strung me along, I thought I was strong, but you were just gaslighting me
+    I've opened my eyes, and counted the lies, and now it is clearer to me
+    You are just a user, and an abuser, living vicariously
 
-    stats = emo_analyzer.analyze_song("Barbra Streisand", "Love With All The Trimmings")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value[0] * 100, 4)) + '%', value[1])
-    print()
+    I never believed that I would concede and get myself blown asunder
+    You strung me along, I thought I was strong, but now you have pushed me under
+    I've opened my eyes, and counted the lies, now it is clearer to me
+    You are just a user, and an abuser, and I refuse to take it
 
-    stats = emo_analyzer.analyze_song("Michael Jackson", "Dirty Diana")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value[0] * 100, 4)) + '%', value[1])
-    print()
+    Won't stand down
+    I'm growing stronger
+    Won't stand down
+    I'm owned no longer
+    Won't stand down
+    You've used me for too long, now die alone
 
+    Now I'm coming back, a counterattack, I'm playing you at your own game
+    I'm cutting you out, a shadow of doubt
+    Is gonna hang over your name
+    I've opened my eyes, I see your disguise
+    I will never see you the same
+    I know how to win, before you begin
+    I'll shoot you before you take aim
 
-    stats = emo_analyzer.analyze_artist("Barbra Streisand")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value * 100, 4)) + '%')
-    print()
+    Now I'm coming back, a counterattack
+    A psychological war
+    I'm cutting you in, I'm under your skin
+    Now I'm gonna settle the score
+    I've opened my eyes, I see your disguise
+    I will never see you the same
+    I know how to win, before you begin
+    I'll shoot you before you take aim
 
+    Won't stand down
+    I'm growing stronger
+    Won't stand down
+    I'm owned no longer
+    Won't stand down
+    You've used me for too long, now die alone
 
-    stats = emo_analyzer.analyze_artist("Metallica")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value * 100, 4)) + '%')
-    print()
+    Won't stand down
+    I'm growing stronger
+    Won't stand down
+    I'm owned no longer
+    Won't stand down
+    You've used me for too long, now die alone 
 
+    """
 
-    stats = emo_analyzer.analyze_artist("Eminem")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value * 100, 4)) + '%')
-    print()
+    result = analyze_new_lyrics(new_song_lyrics)
+    print('\nNEW SONG ANALYSIS RESULT:')
+    pprint.pprint(result)
 
+    result = analyze_existing_song('Michael Jackson', 'Dirty Diana')
+    print('\nMJ\'s DIRTY DIANA ANALYSIS RESULT:')
+    pprint.pprint(result)
 
-    stats = emo_analyzer.analyze_artist("Ed Sheeran")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value * 100, 4)) + '%')
-    print()
-
-
-    stats = emo_analyzer.analyze_artist("Michael Jackson")
-    print('visualizing emotion stats...')
-    for key, value in stats.items():
-        print(key.rjust(15), '->', str(round(value * 100, 4)) + '%')
-    print()
-    '''
-
-
+    result = analyze_artist('AC/DC')
+    print('\nAC/DC ANALYSIS RESULT:')    
+    pprint.pprint(result)
