@@ -42,10 +42,6 @@ def split_dataset(datasetPath, destinationPath, verbose=False):
 
 
 def normalization(song):
-    # TODO: remove this line after the dataset is properly formated
-    if type(song) != str:
-        return []
-
     song = song.replace("_x000D_", "")
 
     # Removing punctuation
@@ -65,4 +61,5 @@ def normalization(song):
     Stopwords = set(stopwords.words("english"))
     processed = [word for word in lemma if word not in Stopwords]
 
-    return processed
+    final = " ".join(processed)
+    return final
