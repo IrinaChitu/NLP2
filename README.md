@@ -1,3 +1,3 @@
 # NLP2
 
-## Lyrics: autorship and emotion analysis
+## Lyrics: authorship and emotion analysis
