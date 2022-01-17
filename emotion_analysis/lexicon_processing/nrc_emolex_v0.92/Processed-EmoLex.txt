@@ -1,0 +1,4241 @@
+1 -- abacus -- trust
+1 -- abandon -- fear, sadness, anger
+1 -- abandonment -- anger, fear, sadness, surprise
+1 -- abbot -- trust
+1 -- abduction -- fear, sadness, surprise
+1 -- aberration -- disgust
+1 -- abhor -- anger, disgust, fear
+1 -- abhorrent -- anger, disgust, fear
+1 -- abject -- disgust
+1 -- abnormal -- disgust
+1 -- abolish -- anger
+1 -- abominable -- disgust, fear
+1 -- abomination -- anger, disgust, fear
+1 -- abortion -- disgust, fear, sadness
+1 -- abortive -- sadness
+1 -- abrupt -- surprise
+1 -- abscess -- sadness
+1 -- absence -- fear, sadness
+1 -- absent -- sadness
+1 -- absentee -- sadness
+1 -- absolution -- joy, trust
+1 -- abundance -- anticipation, disgust, joy, trust
+1 -- abundant -- joy
+1 -- abuse -- anger, disgust, fear, sadness
+1 -- abysmal -- sadness
+1 -- abyss -- fear, sadness
+1 -- academic -- trust
+1 -- accelerate -- anticipation
+1 -- accident -- fear, sadness, surprise
+1 -- accidental -- fear, surprise
+1 -- accidentally -- surprise
+1 -- accolade -- anticipation, joy, surprise, trust
+1 -- accompaniment -- anticipation, joy, trust
+1 -- accomplish -- joy
+1 -- accord -- trust
+1 -- account -- trust
+1 -- accountability -- trust
+1 -- accountable -- trust
+1 -- accountant -- trust
+1 -- accredit -- trust
+1 -- accurate -- trust
+1 -- accurse -- anger, fear, sadness
+1 -- accusation -- anger, disgust
+1 -- accuse -- anger, fear
+1 -- accuser -- anger, fear
+1 -- ache -- sadness
+1 -- achieve -- joy, trust
+1 -- achievement -- anticipation, joy, trust
+1 -- acquire -- anticipation
+1 -- acrobat -- fear, joy, trust
+1 -- actionable -- anger, disgust
+1 -- adder -- anger, disgust, fear, sadness
+1 -- address -- anticipation
+1 -- adhere -- trust
+1 -- adjudicate -- fear
+1 -- administrative -- trust
+1 -- admirable -- joy, trust
+1 -- admiral -- trust
+1 -- admiration -- joy, trust
+1 -- admire -- trust
+1 -- admissible -- trust
+1 -- admonition -- fear
+1 -- adorable -- joy
+1 -- adoration -- joy, trust
+1 -- adore -- anticipation, joy, trust
+1 -- adrift -- anticipation, fear, sadness
+1 -- adultery -- disgust, sadness
+1 -- advance -- anticipation, fear, joy, surprise
+1 -- advent -- anticipation, joy, trust
+1 -- adventure -- anticipation
+1 -- adversary -- anger
+1 -- adverse -- anger, disgust, fear, sadness
+1 -- adversity -- anger, fear, sadness
+1 -- advice -- trust
+1 -- advisable -- trust
+1 -- advise -- trust
+1 -- adviser -- trust
+1 -- advocacy -- anger, anticipation, joy, trust
+1 -- advocate -- trust
+1 -- aesthetic -- joy
+1 -- affection -- joy, trust
+1 -- affirm -- trust
+1 -- affirmatively -- trust
+1 -- afflict -- fear, sadness
+1 -- affliction -- disgust, fear, sadness
+1 -- affluence -- joy
+1 -- affront -- anger, disgust, fear, sadness, surprise
+1 -- afraid -- fear
+1 -- aftermath -- anger, disgust, fear, sadness
+1 -- aga -- fear, trust
+1 -- aggravate -- anger, sadness
+1 -- aggravation -- anger, disgust
+1 -- aggression -- anger, fear
+1 -- aggressive -- anger, fear
+1 -- aggressor -- anger, fear
+1 -- aghast -- disgust, fear, surprise
+1 -- agitate -- anger
+1 -- agitation -- anger
+1 -- agonize -- fear
+1 -- agony -- anger, fear, sadness
+1 -- agreeable -- trust
+1 -- agree -- trust
+1 -- agreement -- trust
+1 -- ail -- sadness, fear
+1 -- airport -- anticipation
+1 -- air -- disgust
+1 -- akin -- trust
+1 -- alarm -- fear, surprise
+1 -- alb -- trust
+1 -- alcoholism -- anger, disgust, fear, sadness
+1 -- alertness -- anticipation, fear, surprise
+1 -- alert -- anticipation, fear, surprise
+1 -- alien -- disgust, fear
+1 -- alienate -- anger, disgust, sadness
+1 -- alienation -- anger, disgust, fear, sadness
+1 -- alive -- anticipation, joy, trust
+1 -- allegation -- anger
+1 -- allegiance -- trust
+1 -- alliance -- trust
+1 -- allied -- trust
+1 -- allure -- anticipation, joy, surprise
+1 -- ally -- trust
+1 -- aloha -- anticipation, joy
+1 -- altercation -- anger
+1 -- amaze -- surprise
+1 -- amazingly -- joy, surprise
+1 -- ambassador -- trust
+1 -- ambition -- anticipation, joy, trust
+1 -- ambulance -- fear, trust
+1 -- ambush -- anger, fear, surprise
+1 -- amen -- joy, trust
+1 -- amicable -- joy
+1 -- ammonia -- disgust
+1 -- amnesty -- joy
+1 -- amortization -- trust
+1 -- amour -- anticipation, joy, trust
+1 -- amphetamine -- disgust
+1 -- amuse -- joy
+1 -- amusement -- joy
+1 -- anaconda -- disgust, fear
+1 -- analyst -- anticipation, trust
+1 -- anarchism -- anger, fear
+1 -- anarchist -- anger, fear
+1 -- anarchy -- anger, fear
+1 -- anathema -- anger, disgust, fear, sadness
+1 -- ancestral -- trust
+1 -- anchorage -- sadness
+1 -- angel -- anticipation, joy, surprise, trust
+1 -- angelic -- joy, trust
+1 -- anger -- anger
+1 -- angina -- fear
+1 -- angle -- anticipation
+1 -- angry -- anger, disgust
+1 -- anguish -- anger, fear, sadness
+1 -- animate -- joy
+1 -- animosity -- anger, disgust, fear, sadness
+1 -- animus -- anger
+1 -- annihilate -- anger, fear, sadness
+1 -- annihilation -- anger, fear, sadness
+1 -- announcement -- anticipation
+1 -- annoy -- anger, disgust
+1 -- annoyance -- anger, disgust
+1 -- annulment -- sadness
+1 -- anomaly -- fear, surprise
+1 -- answerable -- trust
+1 -- antagonism -- anger
+1 -- antagonist -- anger
+1 -- antagonistic -- anger, disgust
+1 -- anthrax -- disgust, fear, sadness
+1 -- antichrist -- anger, disgust, fear
+1 -- anticipation -- anticipation
+1 -- anticipatory -- anticipation
+1 -- antidote -- anticipation, trust
+1 -- antifungal -- trust
+1 -- antipathy -- anger, disgust
+1 -- antiseptic -- trust
+1 -- antisocial -- anger, disgust, fear, sadness
+1 -- antithesis -- anger
+1 -- anxiety -- anger, anticipation, fear, sadness
+1 -- anxious -- anticipation, fear
+1 -- apache -- fear
+1 -- apathetic -- sadness
+1 -- apathy -- sadness
+1 -- aphid -- disgust
+1 -- apologetic -- trust
+1 -- apologize -- sadness, trust
+1 -- apostle -- trust
+1 -- apostolic -- trust
+1 -- appal -- disgust, fear
+1 -- apparition -- fear, surprise
+1 -- appeal -- anticipation
+1 -- appendicitis -- fear, sadness
+1 -- applause -- joy, surprise, trust
+1 -- applicant -- anticipation
+1 -- appreciation -- joy, trust
+1 -- apprehend -- fear
+1 -- apprehension -- fear
+1 -- apprehensive -- anticipation, fear
+1 -- apprentice -- trust
+1 -- approach -- anticipation
+1 -- approbation -- trust
+1 -- approve -- joy, trust
+1 -- arbiter -- trust
+1 -- arbitration -- anticipation
+1 -- arbitrator -- trust
+1 -- archaeology -- anticipation
+1 -- architecture -- trust
+1 -- ardent -- anticipation, joy
+1 -- argue -- anger
+1 -- argument -- anger
+1 -- argumentation -- anger
+1 -- arid -- sadness
+1 -- armament -- anger, fear
+1 -- arm -- anger, fear
+1 -- armor -- fear, trust
+1 -- armored -- fear
+1 -- armory -- trust
+1 -- arouse -- anticipation
+1 -- arraignment -- anger, fear, sadness
+1 -- arrival -- anticipation
+1 -- arrive -- anticipation
+1 -- arrogant -- anger, disgust
+1 -- arsenic -- disgust, fear, sadness
+1 -- arson -- anger, fear
+1 -- art -- anticipation, joy, sadness, surprise
+1 -- artillery -- fear
+1 -- ashamed -- disgust, sadness
+1 -- ash -- sadness
+1 -- asp -- fear
+1 -- aspiration -- anticipation, joy, surprise, trust
+1 -- aspire -- anticipation, joy, trust
+1 -- assail -- anger, fear, surprise
+1 -- assailant -- anger, fear, sadness
+1 -- assassin -- anger, fear, sadness
+1 -- assassinate -- anger, fear
+1 -- assassination -- anger, fear, sadness
+1 -- assault -- anger, fear
+1 -- assembly -- trust
+1 -- assert -- trust
+1 -- assessment -- surprise, trust
+1 -- assessor -- trust
+1 -- asshole -- anger, disgust
+1 -- assignee -- trust
+1 -- assist -- trust
+1 -- associate -- trust
+1 -- association -- trust
+1 -- assurance -- trust
+1 -- assure -- trust
+1 -- assuredly -- trust
+1 -- astonishingly -- surprise
+1 -- astonishment -- joy, surprise
+1 -- astray -- fear
+1 -- astrologer -- anticipation
+1 -- astronomer -- anticipation
+1 -- asylum -- fear
+1 -- asymmetry -- disgust
+1 -- atherosclerosis -- fear, sadness
+1 -- atone -- anticipation, joy, trust
+1 -- atrocious -- anger, disgust
+1 -- atrocity -- anger, disgust, fear, sadness
+1 -- atrophy -- disgust, fear, sadness
+1 -- attack -- anger, fear, disgust, sadness, surprise
+1 -- attainable -- anticipation
+1 -- attempt -- anticipation
+1 -- attendance -- anticipation
+1 -- attendant -- trust
+1 -- attentive -- trust
+1 -- attenuation -- sadness
+1 -- attest -- trust
+1 -- attestation -- trust
+1 -- attorney -- anger, fear, trust
+1 -- auction -- anticipation
+1 -- audience -- anticipation
+1 -- auditor -- fear, trust
+1 -- aunt -- trust
+1 -- auspicious -- anticipation, joy
+1 -- austere -- fear, sadness
+1 -- authentic -- joy, trust
+1 -- authenticate -- trust
+1 -- authentication -- trust
+1 -- authenticity -- trust
+1 -- author -- trust
+1 -- authoritative -- trust
+1 -- authority -- trust
+1 -- authorization -- trust
+1 -- authorize -- trust
+1 -- automatic -- trust
+1 -- autopsy -- disgust, fear, sadness
+1 -- avalanche -- fear, sadness, surprise
+1 -- avarice -- anger, disgust
+1 -- avenger -- anger
+1 -- averse -- anger, disgust, fear
+1 -- aversion -- anger, disgust, fear
+1 -- avoid -- fear
+1 -- avoidance -- fear
+1 -- await -- anticipation
+1 -- award -- anticipation, joy, surprise, trust
+1 -- awful -- anger, disgust, fear, sadness
+1 -- awkwardness -- disgust
+1 -- axiom -- trust
+1 -- axiomatic -- trust
+1 -- baboon -- disgust
+1 -- baby -- joy
+1 -- babysitter -- trust
+1 -- backbone -- anger, trust
+1 -- backer -- trust
+1 -- backwards -- disgust
+1 -- backwater -- sadness
+1 -- bacteria -- disgust, fear, sadness
+1 -- bacterium -- disgust, fear
+1 -- bad -- anger, disgust, fear, sadness
+1 -- badge -- trust
+1 -- badger -- anger
+1 -- badly -- sadness
+1 -- badness -- anger, disgust, fear
+1 -- bailiff -- fear, trust
+1 -- bait -- fear, trust
+1 -- bale -- fear
+1 -- ballot -- anticipation, trust
+1 -- balm -- anticipation, joy
+1 -- bane -- anger, disgust, fear
+1 -- bang -- anger, disgust, fear, sadness, surprise
+1 -- banger -- anger, anticipation, fear, surprise
+1 -- banish -- anger, disgust, fear, sadness
+1 -- banishment -- anger, disgust, sadness
+1 -- bank -- trust
+1 -- banker -- trust
+1 -- bankrupt -- fear, sadness
+1 -- bankruptcy -- anger, disgust, fear, sadness
+1 -- banquet -- anticipation, joy
+1 -- banshee -- anger, disgust, fear, sadness
+1 -- baptismal -- joy
+1 -- barb -- anger
+1 -- barbarian -- fear
+1 -- barbaric -- anger, disgust, fear
+1 -- barf -- disgust
+1 -- bargain -- trust
+1 -- bark -- anger
+1 -- barren -- sadness
+1 -- barricade -- fear
+1 -- barrier -- anger
+1 -- barrow -- disgust
+1 -- bartender -- trust
+1 -- barter -- trust
+1 -- base -- trust
+1 -- basketball -- anticipation, joy
+1 -- bastard -- disgust, sadness
+1 -- bastion -- anger
+1 -- battalion -- anger
+1 -- batter -- anger, fear, sadness
+1 -- battery -- anger
+1 -- battle -- anger, fear, sadness
+1 -- battlefield -- fear
+1 -- bayonet -- anger, fear
+1 -- beach -- joy
+1 -- beam -- joy, anticipation
+1 -- bear -- anger, fear
+1 -- bearish -- anger, fear
+1 -- beast -- anger, fear
+1 -- beastly -- disgust, fear
+1 -- beating -- anger, fear, sadness
+1 -- beautification -- joy, trust
+1 -- beautiful -- joy
+1 -- beautify -- joy
+1 -- beauty -- joy
+1 -- bedrock -- trust
+1 -- bee -- anger, fear
+1 -- beer -- joy
+1 -- befriend -- joy, trust
+1 -- beg -- sadness
+1 -- beggar -- sadness
+1 -- begin -- anticipation
+1 -- behemoth -- fear
+1 -- believe -- trust
+1 -- believer -- trust
+1 -- belittle -- anger, disgust, fear, sadness
+1 -- belligerent -- anger, fear
+1 -- bellow -- anger
+1 -- belt -- anger, fear
+1 -- benefactor -- trust
+1 -- benevolence -- joy, trust
+1 -- benign -- joy
+1 -- bequest -- trust
+1 -- bereave -- sadness
+1 -- bereavement -- sadness
+1 -- berserk -- anger
+1 -- bestial -- disgust, fear
+1 -- betray -- anger, disgust, sadness, surprise
+1 -- betrayal -- anger, disgust, sadness
+1 -- betroth -- anticipation, joy, trust
+1 -- beware -- anticipation, fear
+1 -- bewilder -- fear, surprise
+1 -- bewilderment -- fear, surprise
+1 -- bias -- anger
+1 -- bickering -- anger, disgust
+1 -- biennial -- anticipation
+1 -- bier -- fear, sadness
+1 -- bigot -- anger, disgust, fear
+1 -- bigoted -- anger, disgust, fear, sadness
+1 -- bile -- anger, disgust
+1 -- biopsy -- fear
+1 -- birch -- anger, disgust, fear
+1 -- birth -- anticipation, fear, joy, trust
+1 -- birthday -- anticipation, joy, surprise
+1 -- birthplace -- anger
+1 -- bitch -- anger, disgust, fear, sadness
+1 -- bitterly -- anger, disgust, sadness
+1 -- bitterness -- anger, disgust, sadness
+1 -- bizarre -- surprise
+1 -- blackmail -- anger, fear
+1 -- blackness -- fear, sadness
+1 -- blame -- anger, disgust
+1 -- blanket -- trust
+1 -- blasphemous -- anger, disgust
+1 -- blasphemy -- anger
+1 -- blast -- anger, fear, surprise
+1 -- blatant -- anger, disgust
+1 -- blaze -- anger
+1 -- bleak -- sadness
+1 -- bleeding -- disgust, fear, sadness
+1 -- blemish -- anger, disgust, fear, sadness
+1 -- bless -- anticipation, joy, trust
+1 -- blessing -- anticipation, joy, trust, surprise
+1 -- blight -- disgust, fear, sadness
+1 -- blindfold -- anticipation, fear, surprise
+1 -- blindly -- sadness
+1 -- blindness -- sadness
+1 -- bliss -- joy
+1 -- blissful -- joy
+1 -- blister -- disgust
+1 -- blitz -- surprise
+1 -- bloat -- disgust
+1 -- blob -- disgust, fear
+1 -- blockade -- anger, fear, sadness
+1 -- bloodshed -- anger, disgust, fear, sadness, surprise
+1 -- bloodthirsty -- anger, disgust, fear
+1 -- bloody -- anger, disgust, fear, sadness
+1 -- bloom -- anticipation, joy, trust
+1 -- blossom -- joy
+1 -- blue -- sadness, fear
+1 -- blunder -- disgust, sadness
+1 -- board -- anticipation
+1 -- bodyguard -- trust
+1 -- bogus -- anger, disgust
+1 -- boil -- disgust
+1 -- boisterous -- anger, anticipation, joy
+1 -- bomb -- anger, fear, sadness, surprise
+1 -- bombard -- anger, fear
+1 -- bombardment -- anger, fear
+1 -- bombed -- disgust
+1 -- bomber -- fear, sadness
+1 -- bonanza -- joy
+1 -- bondage -- fear, sadness
+1 -- bonus -- anticipation, joy, surprise
+1 -- boomerang -- anticipation, trust
+1 -- boredom -- sadness
+1 -- bother -- anger, sadness
+1 -- bottom -- sadness
+1 -- bottomless -- fear
+1 -- bountiful -- anticipation, joy
+1 -- bounty -- anticipation, joy, trust
+1 -- bouquet -- joy, trust
+1 -- bout -- anger
+1 -- bovine -- disgust
+1 -- bowel -- disgust
+1 -- boxing -- anger
+1 -- bran -- disgust
+1 -- brawl -- anger, disgust, fear
+1 -- brazen -- anger
+1 -- break -- surprise
+1 -- breakup -- sadness
+1 -- bribery -- disgust
+1 -- bridal -- anticipation, joy, trust
+1 -- bride -- anticipation, joy, trust
+1 -- bridegroom -- anticipation, joy, trust
+1 -- bridesmaid -- joy, trust
+1 -- brigade -- fear
+1 -- brighten -- joy, surprise, trust
+1 -- brilliant -- anticipation, joy, trust
+1 -- brimstone -- anger, fear
+1 -- broadside -- anticipation
+1 -- broil -- anger
+1 -- broke -- fear, sadness
+1 -- broken -- anger, fear, sadness
+1 -- brothel -- disgust
+1 -- brother -- trust
+1 -- brotherhood -- trust
+1 -- brotherly -- anticipation, joy, trust
+1 -- bruise -- anticipation
+1 -- brunt -- anger
+1 -- brutal -- anger, fear
+1 -- brutality -- anger, fear
+1 -- brute -- anger, fear, sadness
+1 -- buck -- fear, surprise
+1 -- buddy -- anticipation, joy, trust
+1 -- budget -- trust
+1 -- buffet -- anger
+1 -- bug -- disgust, fear
+1 -- bugaboo -- anger, fear, sadness
+1 -- bugle -- anticipation
+1 -- bully -- anger, fear
+1 -- bum -- disgust, sadness
+1 -- bummer -- anger, disgust
+1 -- bunker -- fear
+1 -- burdensome -- fear, sadness
+1 -- bureaucracy -- trust
+1 -- bureaucrat -- disgust
+1 -- burglar -- disgust, fear
+1 -- burial -- anger, fear, sadness
+1 -- bury -- fear, sadness
+1 -- burke -- anger, disgust, fear, sadness
+1 -- burlesque -- surprise
+1 -- burnt -- disgust
+1 -- bursary -- trust
+1 -- bus -- joy
+1 -- bust -- anger, fear
+1 -- butcher -- anger, disgust, fear
+1 -- butler -- trust
+1 -- buzz -- anticipation, fear
+1 -- bye -- anticipation
+1 -- bylaw -- trust
+1 -- cabal -- fear
+1 -- cabinet -- trust
+1 -- cable -- surprise
+1 -- cacophony -- anger, disgust
+1 -- cad -- anger, disgust
+1 -- cadaver -- disgust, fear, sadness, surprise
+1 -- cage -- sadness
+1 -- calamity -- sadness
+1 -- calculation -- anticipation
+1 -- calculator -- trust
+1 -- calf -- joy, trust
+1 -- callous -- anger, disgust
+1 -- call -- anticipation, trust
+1 -- camouflage -- surprise
+1 -- campaign -- anger, fear
+1 -- cancel -- sadness
+1 -- cancer -- anger, disgust, fear, sadness
+1 -- candid -- anticipation, joy, surprise, trust
+1 -- cane -- anger, fear
+1 -- canker -- anger, disgust
+1 -- cannibal -- disgust, fear
+1 -- cannibalism -- disgust
+1 -- cannon -- anger, fear
+1 -- canon -- trust
+1 -- cap -- anticipation, trust
+1 -- captivate -- anticipation, joy, surprise, trust
+1 -- captive -- fear, sadness
+1 -- captivity -- sadness
+1 -- captor -- fear
+1 -- carcass -- disgust, fear, sadness
+1 -- carcinoma -- fear, sadness
+1 -- cardiomyopathy -- fear, sadness
+1 -- career -- anticipation
+1 -- carelessness -- anger, disgust
+1 -- caretaker -- trust
+1 -- caries -- disgust
+1 -- carnage -- anger, disgust, fear, sadness, surprise
+1 -- carnivorous -- fear
+1 -- carol -- joy, trust
+1 -- cartridge -- fear
+1 -- case -- fear, sadness
+1 -- cash -- anger, anticipation, fear, joy, trust
+1 -- cashier -- trust
+1 -- casket -- fear, sadness
+1 -- casualty -- anger, fear, sadness
+1 -- cataract -- anticipation, fear, sadness
+1 -- catastrophe -- anger, disgust, fear, sadness, surprise
+1 -- catch -- surprise
+1 -- catechism -- disgust
+1 -- cathedral -- joy, trust
+1 -- caution -- anger, anticipation, fear
+1 -- cautionary -- fear
+1 -- cautious -- anticipation, fear, trust
+1 -- cautiously -- fear
+1 -- celebrate -- anticipation, joy
+1 -- celebration -- anticipation, joy, surprise, trust
+1 -- celebrity -- anger, anticipation, disgust, joy, surprise, trust
+1 -- celestial -- anticipation, joy
+1 -- cement -- anticipation, trust
+1 -- cemetery -- fear, sadness
+1 -- censor -- anger, disgust, fear, trust
+1 -- center -- trust
+1 -- ceremony -- joy, surprise
+1 -- certify -- trust
+1 -- ce -- disgust
+1 -- chaff -- anger, fear
+1 -- chagrin -- disgust, sadness
+1 -- chairman -- trust
+1 -- chairwoman -- trust
+1 -- challenge -- anger, fear
+1 -- champion -- anticipation, joy, trust
+1 -- chance -- surprise
+1 -- chancellor -- trust
+1 -- change -- fear
+1 -- changeable -- anticipation, surprise
+1 -- chant -- anger, anticipation, joy, surprise
+1 -- chaos -- anger, fear, sadness
+1 -- chaotic -- anger
+1 -- chaplain -- trust
+1 -- chargeable -- fear, sadness
+1 -- charitable -- anticipation, joy, trust
+1 -- charity -- joy
+1 -- charm -- joy
+1 -- chart -- trust
+1 -- chasm -- fear
+1 -- chastity -- anticipation, trust
+1 -- cheat -- anger, disgust
+1 -- checklist -- trust
+1 -- cheer -- anticipation, joy, surprise, trust
+1 -- cheerful -- joy, surprise
+1 -- cheerfulness -- anticipation, joy, trust
+1 -- cheery -- anticipation, joy
+1 -- chemist -- trust
+1 -- cherish -- anticipation, joy, surprise, trust
+1 -- chicane -- anticipation, surprise, trust
+1 -- chicken -- fear
+1 -- child -- anticipation, joy
+1 -- childhood -- joy
+1 -- chimera -- fear, surprise
+1 -- chirp -- joy
+1 -- chocolate -- anticipation, joy, trust
+1 -- choir -- joy, trust
+1 -- choke -- anger, sadness
+1 -- cholera -- disgust, fear, sadness
+1 -- choral -- joy
+1 -- chronic -- sadness
+1 -- chronicle -- trust
+1 -- chuckle -- anticipation, joy, surprise, trust
+1 -- church -- anticipation, joy, trust
+1 -- civilization -- trust
+1 -- civilize -- joy, trust
+1 -- claimant -- anger, disgust
+1 -- clamor -- anger, anticipation, disgust, surprise
+1 -- clan -- trust
+1 -- clap -- anticipation, joy, trust
+1 -- clash -- anger, fear
+1 -- classic -- joy
+1 -- claw -- anger, fear
+1 -- clean -- joy, trust
+1 -- clearance -- trust
+1 -- cleave -- fear
+1 -- clerical -- trust
+1 -- cliff -- fear
+1 -- climax -- anticipation, joy, surprise, trust
+1 -- clock -- anticipation
+1 -- closeness -- joy, trust
+1 -- closure -- anticipation, joy, sadness
+1 -- cloud -- sadness
+1 -- cloudiness -- fear
+1 -- cloudy -- sadness
+1 -- clown -- anticipation, joy, surprise
+1 -- clue -- anticipation
+1 -- clumsy -- disgust
+1 -- coach -- trust
+1 -- coalesce -- trust
+1 -- coax -- trust
+1 -- cobra -- fear
+1 -- cocaine -- sadness
+1 -- coerce -- anger, disgust, fear
+1 -- coercion -- anger, disgust, fear, sadness
+1 -- coexist -- trust
+1 -- coffin -- fear, sadness
+1 -- cogent -- trust
+1 -- cohesion -- trust
+1 -- cohesive -- trust
+1 -- coincidence -- surprise
+1 -- coldness -- anger, disgust, fear, sadness
+1 -- collaborator -- trust
+1 -- collapse -- disgust, fear, sadness
+1 -- collateral -- trust
+1 -- collectively -- trust
+1 -- collision -- anger
+1 -- collusion -- anger, disgust, fear, sadness
+1 -- colonel -- trust
+1 -- coma -- fear, sadness
+1 -- comatose -- fear, sadness
+1 -- combat -- anger, fear
+1 -- combatant -- anger, fear
+1 -- combative -- anger, fear
+1 -- comfort -- anticipation, joy, trust
+1 -- come -- anticipation
+1 -- commandant -- trust
+1 -- command -- trust
+1 -- commemorate -- anticipation, joy, sadness
+1 -- commemoration -- anticipation, joy
+1 -- commemorative -- anticipation
+1 -- commendable -- joy, trust
+1 -- commerce -- trust
+1 -- commission -- trust
+1 -- committal -- sadness
+1 -- commit -- trust
+1 -- committee -- trust
+1 -- commodore -- trust
+1 -- commonplace -- anticipation, trust
+1 -- commonwealth -- trust
+1 -- commotion -- anger
+1 -- communicate -- trust
+1 -- communication -- trust
+1 -- communion -- joy, trust
+1 -- communism -- anger, fear, sadness
+1 -- compact -- trust
+1 -- companion -- joy, trust
+1 -- compass -- trust
+1 -- compassion -- fear
+1 -- compensate -- anticipation, joy, surprise, trust
+1 -- competence -- trust
+1 -- competency -- trust
+1 -- competent -- trust
+1 -- competition -- anticipation
+1 -- complain -- anger, sadness
+1 -- complaint -- anger
+1 -- complement -- anticipation, joy, surprise, trust
+1 -- complete -- anticipation, joy
+1 -- completion -- anticipation, joy
+1 -- compliance -- trust
+1 -- complicate -- anger
+1 -- compliment -- anticipation, joy, surprise, trust
+1 -- compost -- disgust
+1 -- compress -- anger
+1 -- comptroller -- trust
+1 -- compulsion -- anger
+1 -- comrade -- trust
+1 -- conceal -- sadness, anticipation, fear, surprise
+1 -- concealment -- anger, anticipation, fear
+1 -- concerned -- fear, sadness
+1 -- conciliation -- joy, trust
+1 -- concord -- trust
+1 -- concordance -- trust
+1 -- concussion -- anger, sadness
+1 -- condemn -- anger
+1 -- condemnation -- anger, anticipation, disgust, fear, sadness
+1 -- condescension -- anger, disgust, sadness
+1 -- condolence -- sadness
+1 -- confederate -- trust
+1 -- confess -- trust
+1 -- confession -- anticipation, fear, sadness, surprise
+1 -- confessional -- fear, trust
+1 -- confide -- trust
+1 -- confidence -- fear, joy, trust
+1 -- confident -- joy, trust
+1 -- confidential -- trust
+1 -- confidentially -- trust
+1 -- confine -- anger, fear, sadness, disgust
+1 -- confinement -- anger, fear, sadness
+1 -- confirmation -- trust
+1 -- confirm -- trust
+1 -- confiscate -- anger, sadness
+1 -- conflagration -- anger, fear
+1 -- conflict -- anger, fear, sadness
+1 -- conformity -- trust
+1 -- confront -- anger
+1 -- confusion -- anger, fear
+1 -- conglomerate -- trust
+1 -- congratulatory -- joy
+1 -- congregation -- trust
+1 -- congress -- disgust, trust
+1 -- congressman -- trust
+1 -- congruence -- trust
+1 -- conjecture -- anticipation
+1 -- conjure -- anticipation, surprise
+1 -- connective -- trust
+1 -- connoisseur -- joy, trust
+1 -- conquest -- anger, fear
+1 -- conscience -- trust
+1 -- conscientious -- trust
+1 -- consecration -- anticipation, joy, sadness, trust
+1 -- consequent -- anticipation
+1 -- conservation -- anticipation, trust
+1 -- considerate -- trust
+1 -- consistency -- trust
+1 -- console -- sadness
+1 -- consort -- trust
+1 -- conspiracy -- fear
+1 -- conspirator -- anger, anticipation, disgust, fear
+1 -- conspire -- fear
+1 -- constable -- trust
+1 -- constancy -- trust
+1 -- constant -- trust
+1 -- constantly -- trust
+1 -- consternation -- anger, fear
+1 -- constipation -- disgust
+1 -- constitute -- trust
+1 -- constitutional -- trust
+1 -- constrain -- fear
+1 -- constraint -- anger, fear, sadness
+1 -- consul -- trust
+1 -- consult -- trust
+1 -- contagion -- anticipation, disgust, fear
+1 -- contagious -- disgust, fear
+1 -- contaminate -- disgust, fear, sadness
+1 -- contamination -- disgust
+1 -- contempt -- anger, disgust, fear
+1 -- contemptible -- anger, disgust
+1 -- contemptuous -- anger
+1 -- content -- joy, trust
+1 -- contentious -- anger, disgust, fear
+1 -- contingent -- anticipation
+1 -- continuation -- anticipation
+1 -- continue -- anticipation, trust
+1 -- contraband -- anger, disgust, fear
+1 -- contradict -- anger
+1 -- contributor -- trust
+1 -- controversial -- anger
+1 -- convent -- trust
+1 -- convergence -- anticipation
+1 -- conveyancing -- trust
+1 -- convict -- anger, disgust, fear, sadness
+1 -- convince -- anticipation, trust
+1 -- convincing -- trust
+1 -- coop -- anger, disgust
+1 -- cooperate -- trust
+1 -- cooperation -- trust
+1 -- cooperative -- trust
+1 -- cop -- fear, trust
+1 -- copycat -- anger, disgust
+1 -- coronation -- joy, trust
+1 -- corporation -- trust
+1 -- corpse -- disgust, sadness
+1 -- correctness -- trust
+1 -- correspondence -- anticipation
+1 -- corroborate -- trust
+1 -- corroboration -- trust
+1 -- corrosive -- fear
+1 -- corrupt -- anger, disgust, fear, sadness
+1 -- corruption -- disgust
+1 -- corse -- sadness
+1 -- cosmopolitan -- trust
+1 -- couch -- sadness
+1 -- cough -- disgust
+1 -- council -- anticipation, trust
+1 -- counsel -- trust
+1 -- counsellor -- anger, fear, trust
+1 -- counselor -- trust
+1 -- count -- trust
+1 -- countdown -- anticipation
+1 -- countryman -- trust
+1 -- county -- trust
+1 -- coup -- anger, surprise
+1 -- courageous -- fear
+1 -- courier -- trust
+1 -- court -- anger, anticipation, fear
+1 -- courtship -- anticipation, joy, trust
+1 -- cove -- anticipation, disgust, fear, joy
+1 -- covenant -- trust
+1 -- cover -- trust
+1 -- coward -- disgust, fear, sadness
+1 -- cowardice -- fear
+1 -- cowardly -- fear
+1 -- coy -- fear
+1 -- coyote -- fear
+1 -- crabby -- anger
+1 -- crack -- anger, fear
+1 -- cradle -- anticipation, joy, trust
+1 -- cramp -- anticipation
+1 -- cranky -- anger
+1 -- crap -- disgust, anticipation
+1 -- crash -- fear, sadness, surprise
+1 -- crave -- anticipation
+1 -- crawl -- disgust
+1 -- craze -- anger, fear
+1 -- crazy -- anger, fear, sadness
+1 -- cream -- anticipation, joy, surprise
+1 -- create -- joy
+1 -- creature -- disgust, fear
+1 -- credence -- trust
+1 -- credential -- trust
+1 -- credibility -- trust
+1 -- credible -- trust
+1 -- credit -- trust
+1 -- creditable -- trust
+1 -- creep -- anticipation
+1 -- cremation -- sadness
+1 -- crescendo -- anticipation, joy, surprise, trust
+1 -- crew -- trust
+1 -- crime -- anger
+1 -- criminal -- anger, disgust, fear
+1 -- criminality -- anger, disgust, fear
+1 -- cringe -- disgust, fear, sadness
+1 -- cripple -- fear, sadness
+1 -- crisp -- trust
+1 -- criticism -- anger, sadness
+1 -- criticize -- anger, disgust, fear, sadness
+1 -- critter -- disgust
+1 -- crocodile -- fear
+1 -- cross -- anger, fear, sadness
+1 -- crouch -- fear
+1 -- crown -- anticipation, joy, surprise, trust
+1 -- crucial -- trust
+1 -- crucifixion -- anger, disgust, fear, sadness
+1 -- crude -- disgust
+1 -- cruel -- anger, disgust, fear, sadness
+1 -- cruelly -- anger, fear
+1 -- cruelty -- anger, disgust, fear, sadness
+1 -- crumble -- sadness
+1 -- crunch -- anger
+1 -- crusade -- anger, fear
+1 -- crush -- anger, disgust, fear, sadness
+1 -- crusty -- disgust
+1 -- cry -- sadness
+1 -- crypt -- fear, sadness
+1 -- cube -- trust
+1 -- cuckold -- disgust
+1 -- cuddle -- joy, trust
+1 -- cue -- anticipation
+1 -- culinary -- trust
+1 -- cult -- fear
+1 -- cultivate -- anticipation, trust
+1 -- cumbersome -- sadness
+1 -- cup -- disgust, fear, sadness
+1 -- cur -- anger, disgust, fear
+1 -- curable -- trust
+1 -- curiosity -- anticipation, surprise
+1 -- curse -- anger, disgust, fear, sadness
+1 -- cuss -- anger
+1 -- custodian -- trust
+1 -- custody -- trust
+1 -- cutter -- fear
+1 -- cutthroat -- anger, fear
+1 -- cut -- anger, disgust, fear, sadness
+1 -- cyanide -- fear
+1 -- cyclone -- fear, surprise
+1 -- cyst -- fear, sadness
+1 -- cystic -- disgust
+1 -- cytomegalovirus -- sadness
+1 -- dabble -- anger, disgust
+1 -- daemon -- anger, disgust, fear, sadness, surprise
+1 -- daft -- disgust
+1 -- dagger -- fear
+1 -- daily -- anticipation
+1 -- damage -- anger, disgust, sadness
+1 -- dame -- anger, disgust, trust
+1 -- damn -- anger, disgust
+1 -- damnation -- anger, fear, sadness
+1 -- dance -- joy, trust
+1 -- dandy -- disgust
+1 -- danger -- fear, sadness
+1 -- dangerous -- fear
+1 -- dank -- disgust
+1 -- dare -- anticipation, trust
+1 -- dark -- sadness
+1 -- darken -- fear, sadness
+1 -- darkness -- anger, fear, sadness
+1 -- darling -- joy, trust
+1 -- dart -- fear
+1 -- dash -- anger, fear, sadness
+1 -- dastardly -- anger, disgust, fear
+1 -- daughter -- joy
+1 -- dawn -- anticipation, joy, surprise, trust
+1 -- deacon -- trust
+1 -- deadly -- anger, disgust, fear, sadness
+1 -- deal -- anticipation, joy, surprise, trust
+1 -- dealing -- trust
+1 -- death -- anger, anticipation, disgust, fear, sadness, surprise
+1 -- debacle -- fear, sadness
+1 -- debauchery -- disgust, fear
+1 -- debenture -- anticipation
+1 -- debris -- disgust
+1 -- debt -- sadness
+1 -- decay -- fear, sadness
+1 -- decayed -- disgust, sadness
+1 -- decease -- sadness
+1 -- deceit -- anger, disgust, fear, sadness, surprise
+1 -- deceitful -- disgust, sadness
+1 -- deceive -- anger, disgust, sadness, trust
+1 -- decompose -- disgust, sadness
+1 -- decomposition -- disgust, fear, sadness
+1 -- decoy -- surprise
+1 -- decry -- anger
+1 -- deed -- trust
+1 -- defamation -- disgust, fear
+1 -- defamatory -- anger
+1 -- default -- disgust, fear, sadness
+1 -- defeat -- sadness
+1 -- defect -- anger
+1 -- defection -- fear
+1 -- defective -- disgust
+1 -- defend -- fear, trust
+1 -- defendant -- anger, fear, sadness
+1 -- defender -- trust
+1 -- defense -- anger, anticipation, fear
+1 -- defenseless -- fear, sadness
+1 -- deference -- trust
+1 -- defiance -- anger, disgust, fear
+1 -- defiant -- anger
+1 -- definitive -- trust
+1 -- deflate -- anger, sadness
+1 -- deflation -- fear
+1 -- deform -- disgust, sadness
+1 -- deformity -- disgust, fear, sadness
+1 -- defraud -- anger, disgust
+1 -- defunct -- sadness
+1 -- defy -- anger, fear, sadness, surprise
+1 -- degeneracy -- anger, disgust, sadness
+1 -- degrade -- disgust, fear, sadness
+1 -- delay -- anger, disgust, fear, sadness
+1 -- delegate -- trust
+1 -- deleterious -- anger, disgust, fear
+1 -- delicious -- joy
+1 -- delight -- anticipation, joy
+1 -- delighted -- anticipation, joy, surprise
+1 -- delightful -- anticipation, joy, trust
+1 -- delinquent -- anger, disgust
+1 -- delirious -- sadness
+1 -- delirium -- disgust, sadness
+1 -- deliverance -- anticipation, joy, trust
+1 -- delivery -- anticipation
+1 -- deluge -- fear, sadness, surprise
+1 -- delusion -- anger, fear, sadness
+1 -- delusional -- anger, fear
+1 -- demand -- anger
+1 -- demented -- fear
+1 -- dementia -- fear, sadness
+1 -- demise -- fear, sadness
+1 -- demolish -- anger, sadness
+1 -- demon -- anger, disgust, fear, sadness
+1 -- demonic -- anger, disgust, fear, sadness
+1 -- demonstrative -- joy, sadness
+1 -- demoralize -- fear, sadness
+1 -- deny -- sadness, anger, anticipation
+1 -- denounce -- anger, disgust
+1 -- dentistry -- fear
+1 -- denunciation -- anger, disgust, fear
+1 -- depart -- anticipation, sadness
+1 -- departure -- sadness
+1 -- depend -- anticipation, trust
+1 -- dependence -- fear, sadness
+1 -- dependent -- trust
+1 -- deplorable -- anger, disgust, fear, sadness
+1 -- deplore -- anger, disgust, sadness
+1 -- deport -- fear, sadness
+1 -- deportation -- anger, fear, sadness
+1 -- depository -- trust
+1 -- deprave -- anger, anticipation, disgust, fear, sadness
+1 -- depravity -- anger, disgust
+1 -- depreciate -- anger, disgust, fear, sadness
+1 -- depreciation -- fear
+1 -- depress -- fear, sadness, disgust
+1 -- depressed -- anger, fear, sadness
+1 -- depression -- sadness
+1 -- depressive -- sadness
+1 -- deprivation -- anger, disgust, fear, sadness
+1 -- depth -- trust
+1 -- deputy -- trust
+1 -- derange -- anger, disgust, fear
+1 -- derision -- anger, disgust
+1 -- dermatologist -- trust
+1 -- derogation -- anger, disgust, fear, sadness
+1 -- derogatory -- anger, disgust, fear, sadness
+1 -- descent -- fear, sadness
+1 -- desecration -- anger, disgust, fear, sadness
+1 -- desert -- anger, disgust, fear, sadness
+1 -- deserve -- anger, anticipation, trust
+1 -- designation -- trust
+1 -- desist -- anger, disgust
+1 -- desolation -- fear, sadness
+1 -- despair -- anger, disgust, fear, sadness
+1 -- despicable -- anger, disgust
+1 -- despise -- anger, disgust
+1 -- despotic -- fear
+1 -- despotism -- anger, disgust, fear, sadness
+1 -- destination -- anticipation, fear, joy, sadness, surprise
+1 -- destine -- anticipation
+1 -- destitute -- fear, sadness
+1 -- destroyed -- anger, fear, sadness
+1 -- destroyer -- anger, fear
+1 -- destroy -- anger, fear, sadness
+1 -- destruction -- anger
+1 -- destructive -- anger, disgust, fear
+1 -- detainee -- anger, anticipation, fear, sadness
+1 -- detention -- sadness
+1 -- deteriorate -- fear, sadness, disgust
+1 -- deterioration -- anger, disgust, fear, sadness
+1 -- determinate -- anticipation, trust
+1 -- determination -- trust
+1 -- detest -- anger, disgust
+1 -- detonate -- fear, surprise
+1 -- detonation -- anger
+1 -- detract -- anger
+1 -- devastate -- anger, fear, sadness, disgust, trust
+1 -- devastation -- anger, fear, sadness, surprise
+1 -- develop -- anticipation
+1 -- deviation -- sadness
+1 -- devil -- anger, anticipation, disgust, fear, sadness
+1 -- devilish -- disgust, fear
+1 -- devotional -- trust
+1 -- devout -- anticipation, joy, trust
+1 -- diabolical -- anger, disgust, fear
+1 -- diagnosis -- anticipation, fear, trust
+1 -- diamond -- joy
+1 -- diaper -- disgust
+1 -- diarrhoea -- disgust
+1 -- diary -- joy, trust
+1 -- diatribe -- anger, disgust
+1 -- dictator -- fear
+1 -- dictatorial -- anger
+1 -- dictatorship -- anger, anticipation, disgust, fear, sadness
+1 -- dictionary -- trust
+1 -- dictum -- trust
+1 -- die -- fear, sadness, anger, disgust
+1 -- dietary -- anticipation
+1 -- differential -- trust
+1 -- differently -- surprise
+1 -- difficult -- fear
+1 -- difficulty -- sadness, anger, fear
+1 -- digit -- trust
+1 -- dignity -- trust
+1 -- digress -- anticipation
+1 -- dike -- fear
+1 -- dilapidate -- disgust, sadness
+1 -- diligence -- trust
+1 -- diminish -- sadness
+1 -- dinosaur -- fear
+1 -- diplomacy -- anticipation, trust
+1 -- diplomatic -- trust
+1 -- dire -- disgust, fear, sadness, surprise
+1 -- director -- trust
+1 -- dirt -- disgust
+1 -- dirty -- disgust
+1 -- disability -- sadness
+1 -- disable -- fear, sadness
+1 -- disabled -- fear, sadness
+1 -- disagree -- anger, sadness
+1 -- disagreement -- anger, sadness
+1 -- disallowed -- anger, disgust, fear, sadness
+1 -- disappear -- fear
+1 -- disappoint -- anger, disgust, sadness
+1 -- disappointed -- anger, disgust, sadness
+1 -- disappointment -- disgust, sadness
+1 -- disapproval -- sadness
+1 -- disapprove -- anger, disgust, fear, sadness
+1 -- disaster -- anger, disgust, fear, sadness, surprise
+1 -- disastrous -- anger, fear, sadness
+1 -- disciple -- trust
+1 -- discipline -- fear
+1 -- disclaim -- anger, disgust, trust
+1 -- disclose -- trust
+1 -- discoloration -- disgust
+1 -- discolor -- disgust, sadness
+1 -- discomfort -- sadness
+1 -- disconnect -- sadness
+1 -- discontent -- anger, disgust, fear, sadness
+1 -- discontinuity -- disgust, fear, sadness
+1 -- discord -- anger, disgust
+1 -- discourage -- fear, sadness
+1 -- discreet -- anticipation
+1 -- discretion -- anticipation, trust
+1 -- discriminate -- anger, sadness, disgust
+1 -- discrimination -- anger, disgust, fear, sadness
+1 -- disdain -- anger, disgust
+1 -- disease -- anger, disgust, fear, sadness
+1 -- diseased -- disgust, fear, sadness
+1 -- disembody -- fear, sadness
+1 -- disfigure -- anger, disgust, fear, sadness
+1 -- disgrace -- anger, disgust, sadness
+1 -- disgraceful -- anger, disgust
+1 -- disgruntle -- anger, disgust, sadness
+1 -- disgust -- anger, disgust, fear, sadness
+1 -- dishearten -- sadness
+1 -- dishonest -- anger, disgust, sadness
+1 -- dishonesty -- disgust
+1 -- dishonor -- anger, disgust, fear, sadness
+1 -- disillusionment -- anger, disgust, sadness
+1 -- disinformation -- anger, fear
+1 -- disingenuous -- disgust
+1 -- disintegrate -- disgust, fear
+1 -- dislike -- anger, disgust
+1 -- disliked -- anger, sadness
+1 -- dislocate -- anger, disgust, fear, sadness
+1 -- dismal -- disgust, fear, sadness
+1 -- dismay -- anger, anticipation, fear, sadness, surprise
+1 -- dismemberment -- disgust, fear, sadness
+1 -- dismissal -- anger, disgust, fear, sadness, surprise
+1 -- disobedience -- anger, disgust
+1 -- disobedient -- anger
+1 -- disobey -- anger, disgust
+1 -- disorder -- fear
+1 -- disparage -- anger, disgust, sadness
+1 -- disparity -- anger, disgust, sadness
+1 -- dispassionate -- sadness
+1 -- dispel -- sadness
+1 -- displace -- anger, fear, sadness
+1 -- displeased -- anger, disgust, fear, sadness
+1 -- displeasure -- disgust
+1 -- dispose -- disgust, anticipation, trust
+1 -- dispossess -- anger, fear, sadness
+1 -- dispute -- anger
+1 -- disqualify -- anger, disgust, sadness
+1 -- disregard -- disgust
+1 -- disreputable -- anger, disgust, fear
+1 -- disrespect -- anger
+1 -- disrespectful -- anger, disgust, fear, sadness
+1 -- disruption -- anger, fear, surprise
+1 -- dissection -- disgust
+1 -- dissension -- anger
+1 -- disservice -- anger, disgust, sadness
+1 -- dissident -- anger, fear
+1 -- dissolution -- anger, fear, sadness, surprise
+1 -- dissonance -- anger
+1 -- distaste -- disgust
+1 -- distasteful -- disgust
+1 -- distort -- disgust
+1 -- distract -- anger, anticipation
+1 -- distraught -- sadness
+1 -- distress -- anger, disgust, fear, sadness, surprise
+1 -- distressed -- fear
+1 -- distrust -- anger, disgust, fear
+1 -- disturbance -- anger, fear, sadness, surprise
+1 -- disturbed -- anger, sadness
+1 -- disused -- anger
+1 -- ditty -- joy
+1 -- divan -- trust
+1 -- divergent -- surprise
+1 -- diversion -- surprise
+1 -- divination -- anticipation
+1 -- divorce -- anger, disgust, fear, sadness, surprise, trust
+1 -- doctor -- trust
+1 -- doctrine -- trust
+1 -- dogma -- trust
+1 -- doldrums -- sadness
+1 -- dole -- sadness
+1 -- doll -- joy
+1 -- dolor -- sadness
+1 -- dolphin -- joy, surprise, trust
+1 -- dominant -- fear
+1 -- dominate -- anger, fear
+1 -- domination -- anger, fear, sadness
+1 -- dominion -- fear, trust
+1 -- don -- trust
+1 -- donkey -- disgust
+1 -- doom -- fear, sadness
+1 -- doomsday -- anger, anticipation, disgust, fear, sadness
+1 -- doubt -- fear, sadness, trust
+1 -- doubtless -- trust
+1 -- dove -- anticipation, joy, trust
+1 -- downfall -- fear, sadness
+1 -- downright -- trust
+1 -- drab -- sadness
+1 -- draft -- anticipation
+1 -- dragon -- fear
+1 -- dread -- anticipation, fear
+1 -- dreadful -- anger, anticipation, disgust, fear, sadness
+1 -- dreadfully -- disgust, fear, sadness, surprise
+1 -- dreary -- sadness
+1 -- drivel -- disgust
+1 -- drool -- disgust
+1 -- drown -- fear, sadness
+1 -- drug -- sadness
+1 -- drunken -- disgust
+1 -- dubious -- fear, trust
+1 -- duel -- anger, anticipation, fear
+1 -- dull -- sadness
+1 -- dump -- anger, sadness
+1 -- dung -- disgust
+1 -- dungeon -- fear
+1 -- dupe -- anger
+1 -- duplicity -- anger
+1 -- durability -- trust
+1 -- durable -- trust
+1 -- duress -- anger, disgust, fear, sadness
+1 -- dutiful -- anticipation, trust
+1 -- dwarfed -- fear, sadness
+1 -- dynamic -- surprise
+1 -- dysentery -- disgust, sadness
+1 -- eager -- anticipation, joy, surprise, trust
+1 -- eagerness -- anticipation, joy, trust
+1 -- eagle -- trust
+1 -- earthquake -- anger, fear, sadness, surprise
+1 -- economy -- trust
+1 -- ecstasy -- anticipation, joy
+1 -- ecstatic -- anticipation, joy, surprise
+1 -- edict -- fear
+1 -- edification -- anticipation, joy, trust
+1 -- edition -- anticipation
+1 -- educational -- trust
+1 -- eel -- fear
+1 -- effective -- trust
+1 -- efficient -- anticipation, trust
+1 -- effigy -- anger
+1 -- egotistical -- disgust
+1 -- egregious -- anger, disgust
+1 -- ejaculation -- anticipation, joy, surprise, trust
+1 -- elate -- joy
+1 -- elbow -- anger
+1 -- elder -- trust
+1 -- elect -- trust
+1 -- electorate -- trust
+1 -- electric -- joy, surprise
+1 -- elegance -- anticipation, joy, trust
+1 -- elegant -- joy
+1 -- elevation -- anticipation, fear, joy, trust
+1 -- elf -- anger, disgust, fear
+1 -- elimination -- anger, disgust, fear, sadness
+1 -- elite -- anticipation, joy, trust
+1 -- elucidate -- trust
+1 -- elusive -- surprise
+1 -- emaciate -- fear, sadness
+1 -- emancipation -- anticipation, joy
+1 -- embarrass -- sadness
+1 -- embarrassment -- fear, sadness, surprise
+1 -- embolism -- fear, sadness
+1 -- embrace -- anticipation, joy, surprise, trust
+1 -- emergency -- fear, sadness, surprise
+1 -- eminence -- trust
+1 -- emphasize -- trust
+1 -- employ -- trust
+1 -- emptiness -- sadness
+1 -- enable -- trust
+1 -- enablement -- trust
+1 -- enchant -- anticipation, joy, surprise, trust
+1 -- encourage -- joy, trust
+1 -- encroachment -- fear
+1 -- encumbrance -- anger, fear, sadness
+1 -- encyclopedia -- trust
+1 -- endanger -- anticipation, fear
+1 -- endeavor -- anticipation
+1 -- endemic -- disgust, fear, sadness
+1 -- endless -- anger, fear, joy, sadness, trust
+1 -- endocarditis -- fear, sadness
+1 -- endow -- trust
+1 -- endowment -- trust
+1 -- enema -- disgust
+1 -- enemy -- anger, disgust, fear
+1 -- enforce -- anger, fear
+1 -- engage -- anticipation, joy, trust
+1 -- engulf -- anticipation
+1 -- enigmatic -- fear
+1 -- enjoy -- anticipation, joy, trust
+1 -- enlighten -- joy, trust
+1 -- enlightenment -- joy, trust
+1 -- enliven -- joy, surprise, trust
+1 -- enmity -- anger, fear, sadness
+1 -- enroll -- anticipation, trust
+1 -- ensemble -- trust
+1 -- enslave -- anger, disgust, fear, sadness
+1 -- entangle -- anger, disgust, fear, sadness
+1 -- entertain -- joy, anticipation
+1 -- entertainment -- anticipation, joy, surprise, trust
+1 -- enthusiasm -- anticipation, joy, surprise
+1 -- enthusiast -- anticipation, joy, surprise
+1 -- entrails -- disgust
+1 -- entrust -- trust
+1 -- epidemic -- anger, anticipation, disgust, fear, sadness, surprise
+1 -- episcopal -- trust
+1 -- epitaph -- sadness
+1 -- equality -- joy, trust
+1 -- eradicate -- anger
+1 -- eradication -- anger, disgust, fear
+1 -- erase -- fear
+1 -- erotic -- anticipation, joy, surprise, trust
+1 -- errand -- anticipation, trust
+1 -- erratic -- surprise
+1 -- error -- sadness
+1 -- erupt -- anger, surprise
+1 -- eruption -- anger, fear, surprise
+1 -- escalate -- anger
+1 -- escape -- anticipation, fear
+1 -- eschew -- anger, sadness
+1 -- escort -- trust
+1 -- establish -- trust, joy
+1 -- esteem -- joy, sadness, trust
+1 -- ethereal -- fear
+1 -- euthanasia -- fear, sadness
+1 -- evacuate -- fear
+1 -- evade -- anger, disgust, fear
+1 -- evanescence -- sadness, surprise
+1 -- evasion -- fear, sadness
+1 -- eventual -- anticipation
+1 -- eventuality -- anticipation, fear
+1 -- evergreen -- joy, trust
+1 -- evict -- sadness
+1 -- eviction -- anger, disgust, fear, sadness
+1 -- evident -- trust
+1 -- evil -- anger, disgust, fear, sadness
+1 -- exacerbation -- anger, fear
+1 -- exaggerate -- anger
+1 -- exalt -- anticipation, joy, trust
+1 -- exaltation -- joy, trust
+1 -- examination -- fear, surprise
+1 -- exasperation -- anger, disgust
+1 -- excavation -- anticipation, surprise
+1 -- exceed -- anticipation, joy
+1 -- excel -- anticipation, joy, surprise, trust
+1 -- excellence -- disgust, joy, trust
+1 -- excellent -- joy, trust
+1 -- exchange -- trust
+1 -- excitation -- anger, anticipation, fear, joy, surprise
+1 -- excite -- anger, anticipation, fear, joy, surprise, trust
+1 -- excitement -- anticipation, joy, surprise
+1 -- exclaim -- surprise
+1 -- exclude -- disgust, sadness
+1 -- exclusion -- disgust, fear, sadness
+1 -- excrement -- disgust
+1 -- excretion -- disgust
+1 -- excruciate -- fear
+1 -- execution -- anger, fear, sadness, trust
+1 -- executioner -- anger, fear, sadness
+1 -- executor -- trust
+1 -- exhaust -- sadness
+1 -- exhaustion -- anticipation, sadness
+1 -- exhaustive -- trust
+1 -- exhilaration -- joy, surprise
+1 -- exigent -- anticipation, disgust, fear, surprise
+1 -- exile -- anger, fear, sadness
+1 -- exorcism -- fear, sadness
+1 -- expect -- anticipation, surprise, trust
+1 -- expectancy -- anticipation
+1 -- expectant -- anticipation
+1 -- expectation -- anticipation
+1 -- expedient -- joy, trust
+1 -- expedition -- anticipation
+1 -- expel -- anger, disgust, fear, sadness
+1 -- experienced -- trust
+1 -- experiment -- anticipation, surprise
+1 -- expert -- trust
+1 -- expertise -- trust
+1 -- expire -- sadness
+1 -- explain -- trust
+1 -- expletive -- anger
+1 -- explode -- anger, fear, sadness, surprise
+1 -- explore -- anticipation
+1 -- explosion -- fear, surprise
+1 -- explosive -- anger, anticipation, fear, surprise
+1 -- expose -- anticipation, fear
+1 -- expulsion -- anger, disgust, fear, sadness
+1 -- exquisite -- joy
+1 -- exterminate -- fear, sadness
+1 -- extermination -- anger, fear
+1 -- extinct -- sadness
+1 -- extinguish -- anger
+1 -- extrajudicial -- fear
+1 -- extricate -- anticipation
+1 -- exuberance -- joy
+1 -- eyewitness -- trust
+1 -- fabrication -- trust
+1 -- fact -- trust
+1 -- faculty -- trust
+1 -- faeces -- disgust
+1 -- fail -- anger, anticipation, fear, sadness
+1 -- failure -- disgust, fear, sadness
+1 -- fain -- anticipation, joy, trust
+1 -- fainting -- fear, sadness, surprise
+1 -- fairly -- trust
+1 -- faith -- anticipation, joy, trust
+1 -- faithful -- trust
+1 -- faithless -- sadness
+1 -- fall -- sadness
+1 -- fallacious -- anger
+1 -- falsehood -- anger, trust
+1 -- falsification -- anger
+1 -- falsify -- disgust
+1 -- falsity -- disgust
+1 -- falter -- fear
+1 -- familiar -- trust
+1 -- familiarity -- anticipation, joy, trust
+1 -- famine -- sadness
+1 -- fanaticism -- fear
+1 -- fancy -- anticipation, joy
+1 -- fanfare -- anticipation, joy, surprise
+1 -- fang -- fear
+1 -- farcical -- disgust
+1 -- farm -- anticipation
+1 -- fast -- sadness
+1 -- fat -- disgust, sadness
+1 -- fatal -- anger, fear, sadness
+1 -- fatality -- fear, sadness
+1 -- fate -- anticipation
+1 -- father -- trust
+1 -- fatigue -- sadness
+1 -- fatty -- disgust, sadness
+1 -- fault -- sadness
+1 -- faultless -- trust
+1 -- favorable -- anticipation, joy, surprise, trust
+1 -- favorite -- joy, trust
+1 -- fear -- anger, fear
+1 -- fearful -- fear, sadness
+1 -- fearfully -- fear, sadness, surprise
+1 -- fearless -- fear
+1 -- feat -- anticipation, joy, surprise
+1 -- fecal -- disgust
+1 -- feces -- disgust
+1 -- fee -- anger
+1 -- feeble -- sadness
+1 -- feel -- anger, anticipation, disgust, fear, joy, sadness, surprise, trust
+1 -- felicity -- joy
+1 -- fell -- sadness
+1 -- fellow -- trust
+1 -- felon -- fear
+1 -- fence -- anger
+1 -- fender -- trust
+1 -- ferment -- anticipation
+1 -- fermentation -- anticipation
+1 -- ferocious -- anger, disgust, fear
+1 -- ferocity -- anger
+1 -- fervor -- anger, joy
+1 -- festival -- anticipation, joy, surprise
+1 -- festive -- joy
+1 -- fete -- anticipation, joy, surprise
+1 -- feud -- anger
+1 -- feudalism -- anger, sadness
+1 -- fever -- fear
+1 -- fib -- anger
+1 -- fidelity -- joy, trust
+1 -- fiend -- anger, disgust, fear
+1 -- fierce -- anger, disgust, fear
+1 -- fiesta -- anticipation, joy, surprise, trust
+1 -- fight -- anger, fear
+1 -- fill -- trust
+1 -- filth -- disgust
+1 -- filthy -- disgust
+1 -- finally -- anticipation, disgust, joy, surprise, trust
+1 -- fire -- fear
+1 -- firearm -- anger, fear
+1 -- fireman -- trust
+1 -- firmness -- trust
+1 -- firstborn -- anticipation, joy, trust
+1 -- fit -- anger
+1 -- fitting -- anticipation, joy, trust
+1 -- fix -- trust
+1 -- flabby -- disgust
+1 -- flaccid -- sadness
+1 -- flagrant -- anger, disgust
+1 -- flagship -- trust
+1 -- flange -- trust
+1 -- flatter -- joy
+1 -- flatulence -- disgust
+1 -- flaw -- sadness
+1 -- flea -- disgust
+1 -- flee -- fear
+1 -- fleece -- anger, disgust, sadness
+1 -- flesh -- disgust
+1 -- flinch -- anticipation, disgust, fear, sadness, surprise
+1 -- flirt -- anticipation, joy, surprise, trust
+1 -- flog -- anger, disgust, fear, sadness
+1 -- flood -- fear
+1 -- flop -- disgust, sadness
+1 -- flounder -- fear, sadness
+1 -- flu -- fear
+1 -- fluctuation -- anger, fear
+1 -- fluke -- surprise
+1 -- fly -- fear
+1 -- foe -- anger, fear
+1 -- follower -- trust
+1 -- fondness -- joy
+1 -- food -- joy, trust
+1 -- fool -- disgust
+1 -- football -- anticipation, joy
+1 -- footing -- trust
+1 -- foray -- anger
+1 -- forbid -- sadness, anger, fear
+1 -- force -- anger, fear
+1 -- forcibly -- anger, fear
+1 -- forearm -- anger, anticipation
+1 -- forebode -- anticipation, fear
+1 -- forecast -- anticipation, trust
+1 -- foreclose -- fear, sadness
+1 -- forefather -- joy, trust
+1 -- foreigner -- fear
+1 -- foresee -- anticipation, surprise, trust
+1 -- foreseen -- anticipation
+1 -- foresight -- anticipation, trust
+1 -- forewarn -- anticipation, fear
+1 -- forfeit -- anger, sadness
+1 -- forfeiture -- fear, sadness
+1 -- forgive -- trust
+1 -- forgotten -- fear, sadness
+1 -- forlorn -- sadness
+1 -- formality -- trust
+1 -- formative -- trust
+1 -- formidable -- fear
+1 -- form -- anticipation
+1 -- formula -- trust
+1 -- forsake -- sadness
+1 -- forsaken -- anger, sadness
+1 -- fort -- trust
+1 -- fortitude -- joy, trust
+1 -- fortress -- fear, sadness, trust
+1 -- fortune -- anticipation, joy, surprise, trust
+1 -- foul -- anger, disgust, fear
+1 -- found -- joy, trust
+1 -- fragile -- fear, sadness
+1 -- frailty -- sadness
+1 -- framework -- trust
+1 -- frank -- trust
+1 -- frankness -- trust
+1 -- frantic -- anticipation, disgust, fear, surprise
+1 -- fraternal -- joy, trust
+1 -- fraud -- anger
+1 -- fraudulent -- anger, disgust
+1 -- fraught -- fear, sadness
+1 -- frayed -- sadness
+1 -- freakish -- disgust, fear, surprise
+1 -- freedom -- joy, trust
+1 -- freely -- joy, trust
+1 -- frenetic -- anger, fear, surprise
+1 -- frenzied -- anger, fear
+1 -- fret -- fear
+1 -- friction -- anger
+1 -- friend -- joy, trust
+1 -- friendliness -- joy, trust
+1 -- friendly -- anticipation, joy, trust
+1 -- friendship -- joy, trust
+1 -- frigate -- fear
+1 -- fright -- fear, surprise
+1 -- frighten -- fear, sadness, surprise
+1 -- frightful -- anger, fear, sadness
+1 -- frisky -- anticipation, joy, surprise
+1 -- frolic -- joy
+1 -- frown -- sadness, anger, disgust
+1 -- fruitless -- sadness
+1 -- frustrate -- anger, disgust, sadness
+1 -- frustration -- anger
+1 -- fugitive -- anger, disgust, fear, sadness, trust
+1 -- fulfill -- joy
+1 -- fulfillment -- anticipation, joy, trust
+1 -- fully -- trust
+1 -- fume -- anger
+1 -- fun -- anticipation, joy
+1 -- fundamental -- trust
+1 -- funeral -- sadness
+1 -- fungus -- disgust
+1 -- funk -- sadness
+1 -- furious -- anger, disgust
+1 -- furiously -- anger
+1 -- furnace -- anger
+1 -- furor -- anger
+1 -- furrow -- sadness
+1 -- fury -- anger, fear, sadness
+1 -- fuse -- trust
+1 -- fuss -- anger, sadness
+1 -- fussy -- disgust
+1 -- futile -- sadness
+1 -- gaby -- disgust
+1 -- gag -- disgust
+1 -- gage -- trust
+1 -- gain -- anticipation, joy
+1 -- gall -- anger, disgust
+1 -- gallows -- anger, fear, sadness
+1 -- gambler -- anticipation, surprise
+1 -- gamble -- anticipation, surprise
+1 -- gang -- anger, fear
+1 -- gape -- surprise
+1 -- garbage -- disgust
+1 -- garden -- joy
+1 -- garish -- disgust, surprise
+1 -- garrison -- trust
+1 -- gash -- fear
+1 -- gasp -- surprise, fear
+1 -- gate -- trust
+1 -- gateway -- trust
+1 -- gauge -- trust
+1 -- gawk -- surprise
+1 -- gazette -- trust
+1 -- gelatin -- disgust
+1 -- gem -- joy
+1 -- general -- trust
+1 -- generosity -- anticipation, joy, surprise, trust
+1 -- generous -- joy, trust
+1 -- genial -- joy
+1 -- gent -- anger, disgust, fear
+1 -- gentleman -- trust
+1 -- gentry -- trust
+1 -- genuine -- trust
+1 -- geriatric -- sadness
+1 -- germ -- anticipation, disgust
+1 -- germination -- anticipation
+1 -- ghastly -- disgust, fear
+1 -- ghetto -- disgust, fear, sadness
+1 -- ghost -- fear
+1 -- ghostly -- fear
+1 -- giant -- fear
+1 -- gibberish -- anger
+1 -- gift -- anticipation, joy, surprise
+1 -- giggle -- joy
+1 -- girder -- trust
+1 -- glad -- anticipation, joy
+1 -- gladiator -- fear
+1 -- gladness -- joy
+1 -- glare -- anger, fear
+1 -- glee -- joy
+1 -- glide -- anticipation, joy
+1 -- glimmer -- anticipation, joy, surprise
+1 -- glitter -- disgust, joy
+1 -- gloom -- sadness
+1 -- gloomy -- sadness
+1 -- glorification -- joy
+1 -- glorify -- anticipation, joy, surprise, trust
+1 -- glory -- anticipation, joy, trust
+1 -- glow -- anticipation, joy, trust
+1 -- glum -- sadness
+1 -- glut -- disgust
+1 -- gluttony -- disgust
+1 -- gnome -- anger, disgust, fear
+1 -- gob -- disgust
+1 -- goblin -- disgust, fear
+1 -- god -- anticipation, fear, joy, trust
+1 -- godless -- anger
+1 -- godly -- joy, trust
+1 -- godsend -- joy, surprise
+1 -- gonorrhea -- anger, disgust, fear, sadness
+1 -- goo -- disgust
+1 -- good -- anticipation, joy, surprise, trust
+1 -- goodness -- anticipation, joy, surprise, trust
+1 -- gore -- anger, disgust, fear, sadness
+1 -- gorge -- disgust
+1 -- gorgeous -- joy
+1 -- gory -- anger, disgust, fear, sadness
+1 -- gospel -- trust
+1 -- govern -- trust
+1 -- governess -- trust
+1 -- government -- fear
+1 -- governor -- trust
+1 -- grab -- anger
+1 -- gradual -- anticipation
+1 -- graduation -- anticipation, fear, joy, surprise, trust
+1 -- grammar -- trust
+1 -- grandchild -- anticipation, joy, trust
+1 -- grandfather -- trust
+1 -- grant -- anticipation, joy, trust
+1 -- grasp -- anticipation
+1 -- grate -- anger, disgust
+1 -- gratify -- joy, surprise
+1 -- gratitude -- joy
+1 -- gratuitous -- disgust
+1 -- grave -- fear, sadness
+1 -- gravitate -- anticipation
+1 -- gray -- disgust, sadness
+1 -- greasy -- disgust
+1 -- greatness -- joy, surprise, trust
+1 -- greed -- anger, disgust
+1 -- greedy -- disgust
+1 -- green -- joy, trust
+1 -- greet -- surprise
+1 -- grenade -- fear
+1 -- grief -- sadness
+1 -- grievance -- anger, disgust, sadness
+1 -- grieve -- fear, sadness
+1 -- grievous -- anger, fear, sadness
+1 -- grim -- anger, anticipation, disgust, fear, sadness
+1 -- grime -- disgust
+1 -- grimy -- disgust
+1 -- grin -- anticipation, joy, surprise, trust
+1 -- grisly -- disgust, fear
+1 -- grit -- trust
+1 -- grizzly -- fear
+1 -- groan -- disgust, sadness
+1 -- grope -- anger, disgust, fear
+1 -- gross -- disgust
+1 -- grotesque -- disgust
+1 -- ground -- trust, fear, sadness
+1 -- grow -- anticipation, joy, trust
+1 -- growl -- anger, fear, disgust
+1 -- grudge -- anger
+1 -- gruesome -- disgust
+1 -- gruff -- anger, disgust
+1 -- grumble -- anger, disgust
+1 -- grumpy -- anger, disgust, sadness
+1 -- guarantee -- trust
+1 -- guard -- fear, trust
+1 -- guardian -- trust
+1 -- guardianship -- trust
+1 -- gubernatorial -- trust
+1 -- guerilla -- fear
+1 -- guess -- surprise
+1 -- guidance -- trust
+1 -- guide -- trust
+1 -- guidebook -- trust
+1 -- guillotine -- anger, anticipation, disgust, fear, sadness
+1 -- guilt -- disgust, sadness
+1 -- guilty -- anger, sadness
+1 -- gullible -- sadness, trust
+1 -- gulp -- fear, surprise
+1 -- gun -- anger, fear
+1 -- gunpowder -- fear
+1 -- guru -- trust
+1 -- gush -- disgust, joy
+1 -- gusset -- trust
+1 -- gut -- disgust
+1 -- gutter -- disgust
+1 -- habitual -- anticipation
+1 -- hag -- disgust, fear
+1 -- haggard -- sadness
+1 -- hail -- trust
+1 -- hairy -- disgust
+1 -- hallucination -- fear
+1 -- halter -- anger, fear, sadness
+1 -- halt -- fear, sadness
+1 -- hamstring -- anger, sadness
+1 -- handbook -- trust
+1 -- handicap -- sadness
+1 -- hang -- anger, disgust, fear, sadness
+1 -- hangman -- fear
+1 -- hanker -- anticipation
+1 -- hap -- anticipation, surprise
+1 -- happen -- anticipation
+1 -- happily -- joy
+1 -- happiness -- anticipation, joy
+1 -- happy -- anticipation, joy, trust
+1 -- harass -- anger, disgust
+1 -- harbinger -- anger, anticipation, fear
+1 -- harbor -- trust
+1 -- harden -- anger, disgust, fear
+1 -- hardship -- sadness
+1 -- hardy -- joy, trust
+1 -- harlot -- disgust
+1 -- harm -- fear
+1 -- harmful -- anger, disgust, fear, sadness
+1 -- harmoniously -- joy, trust
+1 -- harmony -- joy, trust
+1 -- harrow -- fear
+1 -- harry -- anger, sadness
+1 -- harshness -- anger, fear
+1 -- harvest -- anticipation, joy
+1 -- haste -- anticipation
+1 -- hate -- anger, disgust, fear, sadness
+1 -- hateful -- anger, disgust, fear, sadness
+1 -- hat -- anger
+1 -- hatred -- anger, disgust, fear, sadness
+1 -- haughty -- anger
+1 -- haunt -- fear, sadness
+1 -- haven -- trust
+1 -- havoc -- anger, fear
+1 -- hawk -- fear
+1 -- hazard -- fear
+1 -- hazardous -- fear
+1 -- haze -- fear
+1 -- headlight -- anticipation
+1 -- heal -- joy, trust, anticipation
+1 -- healthful -- joy
+1 -- hearing -- fear
+1 -- hearse -- fear, sadness
+1 -- heartache -- sadness
+1 -- heartfelt -- joy, sadness, trust
+1 -- heartily -- joy
+1 -- heartless -- sadness
+1 -- heartworm -- disgust
+1 -- heathen -- fear
+1 -- heavenly -- anticipation, joy, trust
+1 -- heaven -- joy, trust
+1 -- hedonism -- joy
+1 -- heft -- anticipation, fear
+1 -- heighten -- fear
+1 -- hell -- anger, disgust, fear, sadness
+1 -- hellish -- anger, disgust, fear, sadness
+1 -- helmet -- fear
+1 -- helper -- trust
+1 -- helpful -- joy, trust
+1 -- helpless -- fear, sadness
+1 -- helplessness -- fear, sadness
+1 -- hemorrhage -- disgust, fear, sadness
+1 -- heretic -- disgust
+1 -- heritage -- trust
+1 -- hermaphrodite -- surprise
+1 -- hermit -- sadness, trust
+1 -- hero -- anticipation, joy, surprise, trust
+1 -- heroic -- joy, surprise, trust
+1 -- heroine -- trust
+1 -- heroism -- anticipation, joy, surprise, trust
+1 -- herpes -- disgust
+1 -- herpesvirus -- disgust
+1 -- hesitation -- fear
+1 -- heyday -- anticipation, joy, trust
+1 -- hide -- fear
+1 -- hideous -- disgust, fear, sadness
+1 -- hiding -- fear
+1 -- high -- anticipation, fear, joy, surprise
+1 -- hilarious -- joy, surprise
+1 -- hilarity -- joy
+1 -- hinder -- sadness
+1 -- hire -- anticipation, joy, trust
+1 -- hiss -- anger, fear
+1 -- hit -- anger
+1 -- hoary -- sadness
+1 -- hoax -- anger, disgust, sadness, surprise
+1 -- hobby -- joy
+1 -- hobo -- sadness
+1 -- hog -- disgust
+1 -- holiday -- anticipation, joy
+1 -- holiness -- anticipation, fear, joy, surprise, trust
+1 -- hollow -- sadness
+1 -- holocaust -- anger, disgust, fear, sadness
+1 -- homeless -- anger, anticipation, disgust, fear, sadness
+1 -- homesick -- sadness
+1 -- homework -- fear
+1 -- homicidal -- anger, fear
+1 -- homicide -- anger, disgust, fear, sadness
+1 -- honest -- anger, disgust, fear, joy, sadness, trust
+1 -- honesty -- trust
+1 -- honeymoon -- anticipation, joy, surprise, trust
+1 -- honor -- trust
+1 -- honorable -- trust
+1 -- hood -- anger, disgust, fear
+1 -- hoot -- anger, disgust
+1 -- hope -- anticipation, joy, surprise, trust
+1 -- hopeful -- anticipation, joy, surprise, trust
+1 -- hopeless -- fear, sadness
+1 -- hopelessness -- anger, disgust, fear, sadness
+1 -- horde -- surprise
+1 -- horizon -- anticipation
+1 -- horoscope -- anticipation
+1 -- horrible -- anger, disgust, fear
+1 -- horrid -- anger, disgust, fear, sadness
+1 -- horrific -- anger, disgust, fear, sadness
+1 -- horrify -- fear, disgust, sadness
+1 -- horror -- anger, disgust, fear, sadness, surprise
+1 -- horse -- trust
+1 -- hospice -- sadness
+1 -- hospital -- fear, sadness, trust
+1 -- hostage -- anger, fear
+1 -- hostile -- anger, disgust, fear
+1 -- hostility -- anger, fear, disgust
+1 -- hot -- anger
+1 -- howl -- anger, disgust, fear, sadness, surprise
+1 -- huff -- anger, disgust
+1 -- hug -- joy, trust
+1 -- hulk -- disgust
+1 -- humanitarian -- anticipation, joy, surprise, trust
+1 -- humanity -- joy, trust
+1 -- humble -- disgust, sadness
+1 -- humbug -- anger, disgust, sadness
+1 -- humiliate -- anger, sadness, disgust
+1 -- humiliation -- disgust, sadness
+1 -- humility -- trust
+1 -- humorous -- joy
+1 -- hungry -- anticipation
+1 -- hunter -- anticipation, fear, sadness
+1 -- hunt -- anger, anticipation, fear
+1 -- hurrah -- joy
+1 -- hurricane -- fear
+1 -- hurry -- anticipation
+1 -- hurt -- anger, fear, sadness
+1 -- hurtful -- anger, disgust, fear, sadness
+1 -- husbandry -- trust
+1 -- hut -- sadness
+1 -- hydra -- fear
+1 -- hydrocephalus -- disgust, fear, sadness
+1 -- hymn -- anticipation, joy, sadness, trust
+1 -- hype -- anticipation
+1 -- hypertrophy -- disgust, fear, surprise
+1 -- hypocrite -- disgust
+1 -- hypocritical -- disgust
+1 -- hypothesis -- anticipation, surprise
+1 -- hysteria -- fear
+1 -- hysterical -- anger, fear
+1 -- idiocy -- anger, disgust, sadness
+1 -- idiot -- disgust
+1 -- idiotic -- anger, disgust
+1 -- idolatry -- disgust, fear
+1 -- ignorant -- disgust
+1 -- ill -- anger, disgust, fear, sadness
+1 -- illegal -- anger, disgust, fear, sadness
+1 -- illegality -- anger, disgust, fear
+1 -- illegitimate -- anger, disgust, fear, sadness, surprise
+1 -- illicit -- anger, disgust, fear
+1 -- illiterate -- disgust
+1 -- illness -- fear, sadness
+1 -- illuminate -- anticipation, joy, surprise
+1 -- illumination -- joy, surprise, trust
+1 -- illusion -- surprise
+1 -- immaculate -- joy, trust
+1 -- immature -- anticipation
+1 -- immaturity -- anger, anticipation
+1 -- immediacy -- surprise
+1 -- immediately -- anticipation
+1 -- immerse -- anticipation, fear, joy, surprise, trust
+1 -- immigrant -- fear
+1 -- imminent -- anticipation, fear
+1 -- immoral -- anger, disgust, fear, sadness
+1 -- immorality -- anger, disgust
+1 -- immortality -- anticipation
+1 -- immovable -- trust
+1 -- immunization -- trust
+1 -- impart -- trust
+1 -- impartial -- trust
+1 -- impartiality -- trust
+1 -- impatient -- anticipation
+1 -- impeach -- disgust, fear
+1 -- impeccable -- trust
+1 -- impend -- anticipation, fear
+1 -- impenetrable -- trust
+1 -- impermeable -- anger, fear
+1 -- implicate -- anger
+1 -- impolite -- disgust
+1 -- importance -- anticipation
+1 -- important -- trust
+1 -- impossible -- sadness
+1 -- impotence -- anger, fear, sadness
+1 -- impressionable -- trust
+1 -- imprison -- anger, disgust, fear, sadness
+1 -- imprisonment -- anger, disgust, fear, sadness
+1 -- improve -- anticipation, joy, trust
+1 -- improvement -- joy, trust
+1 -- improvisation -- surprise
+1 -- improvise -- anticipation, surprise
+1 -- imprudent -- sadness
+1 -- impure -- disgust
+1 -- impurity -- disgust
+1 -- inability -- sadness
+1 -- inadequate -- sadness
+1 -- inadmissible -- anger, disgust
+1 -- inappropriate -- anger, disgust, sadness
+1 -- inattention -- anger
+1 -- inaugural -- anticipation
+1 -- inauguration -- anticipation, joy, trust
+1 -- incarceration -- anger, disgust, fear, sadness
+1 -- incase -- anger, disgust, fear, sadness
+1 -- incendiary -- anger, fear, surprise
+1 -- incense -- anger
+1 -- incest -- anger, disgust, fear, sadness
+1 -- incestuous -- disgust
+1 -- incident -- surprise
+1 -- incite -- anger, anticipation, fear
+1 -- incline -- trust
+1 -- inclusion -- trust
+1 -- income -- anticipation, joy, sadness, trust
+1 -- incompatible -- anger, disgust, sadness
+1 -- incompetent -- anger, sadness
+1 -- incongruous -- anger
+1 -- inconsequential -- sadness
+1 -- inconsiderate -- anger, disgust, sadness
+1 -- incontinence -- surprise
+1 -- inconvenient -- anger, disgust, sadness
+1 -- incredulous -- anger, disgust
+1 -- incrimination -- fear, sadness
+1 -- incubus -- disgust, fear
+1 -- incurable -- anger, disgust, fear, sadness
+1 -- incursion -- fear
+1 -- indecency -- anger, disgust
+1 -- indecent -- disgust
+1 -- indefensible -- fear
+1 -- indelible -- trust
+1 -- indemnity -- trust
+1 -- indent -- trust
+1 -- indenture -- anger
+1 -- independence -- anticipation, joy, surprise, trust
+1 -- indestructible -- trust
+1 -- indict -- anger, fear
+1 -- indictment -- fear
+1 -- indifference -- anger, disgust, fear, sadness
+1 -- indigent -- sadness
+1 -- indignant -- anger
+1 -- indignation -- anger, disgust
+1 -- indivisible -- trust
+1 -- indoctrination -- anger, fear
+1 -- indomitable -- fear
+1 -- ineffectual -- disgust
+1 -- inefficiency -- disgust, sadness
+1 -- inefficient -- sadness
+1 -- inept -- anger, disgust
+1 -- ineptitude -- disgust, fear, sadness
+1 -- inequality -- anger, fear, sadness
+1 -- inexcusable -- anger, disgust, sadness
+1 -- inexplicable -- surprise
+1 -- infallibility -- trust
+1 -- infamous -- anger, disgust, fear
+1 -- infamy -- sadness
+1 -- infant -- anticipation, fear, joy, surprise
+1 -- infanticide -- anger, anticipation, disgust, fear, sadness
+1 -- infantile -- anger, disgust
+1 -- infarct -- fear, surprise
+1 -- infect -- disgust
+1 -- infection -- fear
+1 -- infectious -- disgust, fear, sadness
+1 -- inferior -- sadness
+1 -- inferno -- anger, fear
+1 -- infertility -- sadness
+1 -- infestation -- disgust, fear
+1 -- infidel -- anger, disgust, fear
+1 -- infidelity -- anger, disgust, fear, sadness
+1 -- infinity -- anticipation, joy, trust
+1 -- infirmity -- fear
+1 -- inflation -- fear
+1 -- inflict -- anger, fear, sadness
+1 -- infliction -- fear, sadness
+1 -- influential -- trust
+1 -- inform -- trust
+1 -- infraction -- anger
+1 -- infrequent -- surprise
+1 -- inheritance -- anticipation, joy, surprise, trust
+1 -- inhibit -- anger, disgust, sadness
+1 -- inhospitable -- sadness
+1 -- inhuman -- anger, disgust, fear, sadness
+1 -- inhumanity -- sadness
+1 -- inimical -- anger, sadness
+1 -- inimitable -- trust
+1 -- iniquity -- disgust
+1 -- injection -- fear
+1 -- injure -- anger, fear, sadness
+1 -- injured -- fear, sadness
+1 -- injurious -- anger, fear, sadness
+1 -- injury -- anger, fear, sadness
+1 -- injustice -- anger
+1 -- inmate -- disgust, fear
+1 -- innocent -- trust
+1 -- inoculation -- anticipation, trust
+1 -- inoperative -- anger
+1 -- inquiry -- anticipation
+1 -- insane -- anger, fear
+1 -- insanity -- anger, disgust, fear, sadness
+1 -- insecure -- anger, fear, sadness
+1 -- insecurity -- fear
+1 -- inseparable -- joy, trust
+1 -- insidious -- anger, disgust, fear
+1 -- insignificant -- anger, sadness
+1 -- insolvency -- fear, sadness, surprise
+1 -- insolvent -- fear, sadness, trust
+1 -- inspiration -- anticipation, joy
+1 -- inspire -- anticipation, joy, trust, surprise
+1 -- instability -- disgust, fear
+1 -- install -- anticipation
+1 -- instinctive -- anger, disgust, fear
+1 -- institute -- trust
+1 -- instruct -- trust
+1 -- instruction -- trust, anticipation
+1 -- instructor -- anticipation, trust
+1 -- insufficiency -- anger
+1 -- insulation -- trust
+1 -- insult -- anger, disgust, sadness, surprise, fear
+1 -- insure -- trust
+1 -- insurmountable -- fear, sadness
+1 -- insurrection -- anger
+1 -- intact -- trust
+1 -- integrity -- trust
+1 -- intelligence -- fear, joy, trust
+1 -- intelligent -- trust
+1 -- intend -- trust, anticipation
+1 -- intense -- anger, disgust, fear, joy, surprise, trust
+1 -- inter -- sadness
+1 -- intercede -- fear, sadness
+1 -- intercession -- trust
+1 -- interested -- disgust, sadness
+1 -- interim -- anticipation
+1 -- interior -- disgust, trust
+1 -- interment -- sadness
+1 -- interminable -- anger, anticipation
+1 -- intermission -- anticipation
+1 -- interrogate -- fear
+1 -- interrogation -- fear
+1 -- interrupt -- anger, surprise, sadness
+1 -- intervention -- sadness
+1 -- interviewer -- fear
+1 -- intestinal -- disgust
+1 -- intimate -- anticipation, joy, trust
+1 -- intimately -- anticipation, fear, joy
+1 -- intimidate -- fear
+1 -- intimidation -- anger, fear
+1 -- intolerable -- anger
+1 -- intolerance -- anger, disgust, fear
+1 -- intolerant -- anger, disgust, fear, sadness
+1 -- intoxicate -- disgust
+1 -- intractable -- anger
+1 -- intrigue -- anticipation, fear, surprise
+1 -- intruder -- anger, fear, surprise
+1 -- intrusion -- fear
+1 -- intrusive -- anger, disgust, fear, surprise
+1 -- intuition -- trust
+1 -- intuitively -- anticipation
+1 -- invade -- anger, fear, sadness, surprise
+1 -- invader -- anger, fear, sadness
+1 -- invalid -- sadness
+1 -- invasion -- anger
+1 -- investigation -- anticipation
+1 -- invitation -- anticipation
+1 -- invite -- anticipation, joy, surprise, trust
+1 -- invocation -- anticipation, trust
+1 -- invoke -- anticipation
+1 -- involution -- anger
+1 -- involvement -- anger
+1 -- irate -- anger
+1 -- ire -- anger
+1 -- iris -- fear
+1 -- iron -- trust
+1 -- irrational -- disgust, fear
+1 -- irreconcilable -- anger, fear, sadness
+1 -- irrefutable -- trust
+1 -- irreparable -- fear, sadness
+1 -- irritability -- anger
+1 -- irritable -- anger
+1 -- irritate -- anger, disgust
+1 -- irritation -- anger, disgust, sadness
+1 -- isolate -- sadness
+1 -- isolated -- fear, sadness
+1 -- isolation -- sadness
+1 -- jab -- anger
+1 -- jackpot -- anticipation, joy, surprise
+1 -- jail -- fear, sadness
+1 -- janitor -- disgust
+1 -- jarring -- fear, sadness
+1 -- jaundice -- fear
+1 -- jaw -- fear
+1 -- jealous -- anger, disgust
+1 -- jealousy -- anger, disgust, fear, sadness
+1 -- jeopardize -- anger, fear
+1 -- jeopardy -- anticipation, fear
+1 -- jerk -- anger, surprise
+1 -- jest -- joy, surprise
+1 -- john -- disgust
+1 -- joker -- joy, surprise
+1 -- jolt -- surprise
+1 -- journalism -- trust
+1 -- journey -- anticipation, fear, joy
+1 -- journeyman -- trust
+1 -- jovial -- joy
+1 -- joy -- joy
+1 -- joyful -- joy, trust
+1 -- joyous -- joy
+1 -- jubilant -- joy, surprise, trust
+1 -- jubilee -- joy, surprise
+1 -- judgment -- surprise
+1 -- judicial -- anticipation, trust
+1 -- judiciary -- anticipation, trust
+1 -- judicious -- trust
+1 -- jump -- joy
+1 -- jungle -- fear
+1 -- jurisprudence -- sadness
+1 -- jurist -- trust
+1 -- jury -- trust
+1 -- justice -- trust
+1 -- justifiable -- trust
+1 -- kennel -- sadness
+1 -- kerosene -- fear
+1 -- khan -- fear, trust
+1 -- kick -- anger
+1 -- kidnap -- anger, fear, sadness, surprise
+1 -- kill -- fear, sadness, anger
+1 -- kind -- joy, trust
+1 -- kindred -- anticipation, joy, trust
+1 -- kiss -- anticipation, joy, surprise
+1 -- kite -- disgust
+1 -- kitten -- joy, trust
+1 -- knell -- fear, sadness
+1 -- knickers -- trust
+1 -- kudos -- joy
+1 -- label -- trust
+1 -- labor -- anticipation, joy, surprise, trust, sadness
+1 -- labyrinth -- anticipation
+1 -- lace -- anger, fear, sadness, trust
+1 -- lag -- anger, anticipation, disgust, sadness
+1 -- lamb -- joy, trust
+1 -- lament -- disgust, fear, sadness
+1 -- landmark -- trust
+1 -- landslide -- fear, sadness
+1 -- languish -- fear, sadness
+1 -- larceny -- disgust
+1 -- large -- disgust, surprise, trust
+1 -- laser -- trust
+1 -- lash -- anger, fear
+1 -- late -- sadness
+1 -- latent -- anger, anticipation, disgust, surprise
+1 -- latrine -- disgust
+1 -- laugh -- joy, surprise
+1 -- laughable -- disgust
+1 -- laughter -- anticipation, joy, surprise
+1 -- launch -- anticipation
+1 -- laureate -- trust
+1 -- laurel -- joy
+1 -- lava -- anger, fear
+1 -- lavatory -- disgust
+1 -- law -- trust
+1 -- lawful -- trust
+1 -- lawlessness -- anger, fear
+1 -- lawsuit -- anger, disgust, fear, sadness, surprise
+1 -- lawyer -- anger, disgust, fear
+1 -- lax -- sadness
+1 -- laxative -- disgust, fear
+1 -- leader -- trust
+1 -- lead -- trust
+1 -- lean -- trust
+1 -- leave -- sadness, surprise
+1 -- leech -- disgust, fear
+1 -- leer -- disgust
+1 -- leery -- surprise
+1 -- legal -- trust
+1 -- legalize -- anger, fear, joy, trust
+1 -- legislator -- trust
+1 -- legislature -- trust
+1 -- legitimacy -- trust
+1 -- leisure -- anticipation, joy, surprise, trust
+1 -- lemon -- disgust
+1 -- lender -- trust
+1 -- leprosy -- disgust, fear, sadness
+1 -- lessen -- anticipation
+1 -- lesser -- disgust
+1 -- lesson -- anticipation, trust
+1 -- lethal -- disgust, fear, sadness
+1 -- lethargy -- sadness
+1 -- letter -- anticipation, trust
+1 -- leukemia -- anger, fear, sadness
+1 -- levee -- trust
+1 -- level -- trust
+1 -- lewd -- disgust
+1 -- liar -- disgust
+1 -- libel -- anger, fear, trust
+1 -- liberate -- anger, anticipation, joy, surprise, trust
+1 -- liberation -- anticipation, joy, surprise
+1 -- liberty -- anticipation, joy, surprise, trust
+1 -- lick -- disgust
+1 -- lie -- anger, disgust, sadness
+1 -- lieutenant -- trust
+1 -- lifeless -- fear, sadness
+1 -- lightning -- anger, fear, surprise
+1 -- like -- joy, trust
+1 -- limited -- anger, sadness
+1 -- line -- fear
+1 -- linger -- anticipation
+1 -- linguist -- trust
+1 -- lion -- fear
+1 -- liquor -- anger, joy, sadness
+1 -- listless -- sadness
+1 -- litigate -- anger, anticipation, disgust, fear, sadness
+1 -- litigious -- anger, disgust
+1 -- livid -- anger, disgust
+1 -- loath -- anger
+1 -- loathe -- anger, disgust
+1 -- loathsome -- anger, disgust
+1 -- localize -- anticipation
+1 -- lockup -- fear, sadness
+1 -- locust -- fear
+1 -- lodge -- trust
+1 -- lone -- sadness
+1 -- loneliness -- fear, sadness
+1 -- lonely -- anger, disgust, fear, sadness
+1 -- lonesome -- sadness
+1 -- long -- anticipation
+1 -- longing -- anticipation, sadness
+1 -- loo -- disgust
+1 -- loom -- anticipation, fear
+1 -- loon -- disgust
+1 -- lord -- disgust, trust
+1 -- lose -- anger, disgust, fear, sadness, surprise
+1 -- loss -- anger, fear, sadness
+1 -- lottery -- anticipation
+1 -- loudness -- anger
+1 -- louse -- disgust
+1 -- lovable -- joy, trust
+1 -- love -- joy, trust
+1 -- lovely -- anticipation, joy, sadness, surprise, trust
+1 -- lovemaking -- joy, trust
+1 -- lover -- anticipation, joy, trust
+1 -- low -- sadness
+1 -- lowly -- sadness
+1 -- loyal -- fear, joy, surprise, trust
+1 -- loyalty -- trust
+1 -- luck -- anticipation, joy, surprise
+1 -- lucky -- joy, surprise
+1 -- lull -- anticipation
+1 -- lumpy -- disgust
+1 -- lunacy -- anger, disgust, fear, sadness
+1 -- lunatic -- anger, disgust, fear
+1 -- lunge -- surprise
+1 -- lurid -- disgust
+1 -- luscious -- anticipation, joy
+1 -- lush -- disgust, sadness
+1 -- lust -- anticipation
+1 -- luster -- joy
+1 -- lusty -- disgust
+1 -- luxurious -- joy
+1 -- luxury -- joy
+1 -- lynch -- anger, disgust, fear, sadness
+1 -- lyre -- joy
+1 -- lyrical -- joy
+1 -- mace -- fear
+1 -- machine -- trust
+1 -- mad -- anger, disgust, fear, sadness
+1 -- madden -- anger, fear
+1 -- madman -- anger, fear
+1 -- madness -- anger, fear
+1 -- mafia -- fear
+1 -- mage -- fear
+1 -- maggot -- disgust
+1 -- magical -- anticipation, joy, surprise
+1 -- magician -- surprise
+1 -- magnet -- trust
+1 -- magnificence -- anticipation, joy, trust
+1 -- magnificent -- anticipation, joy, surprise, trust
+1 -- mail -- anticipation
+1 -- mainstay -- trust
+1 -- maintenance -- trust
+1 -- majestic -- anticipation, joy, surprise, trust
+1 -- majesty -- trust
+1 -- majority -- joy, trust
+1 -- malaise -- sadness
+1 -- malaria -- disgust, fear, sadness
+1 -- malevolent -- anger, disgust, fear, sadness
+1 -- malfeasance -- disgust
+1 -- malice -- anger, fear
+1 -- malicious -- anger, disgust, fear, sadness
+1 -- malign -- anger, disgust
+1 -- malignancy -- fear, sadness
+1 -- malignant -- anger, fear
+1 -- malpractice -- anger
+1 -- mamma -- trust
+1 -- manage -- trust
+1 -- management -- trust
+1 -- mandamus -- fear
+1 -- mandarin -- trust
+1 -- mange -- disgust, fear
+1 -- mangle -- anger, disgust, fear, sadness
+1 -- maniac -- anger, fear
+1 -- manifestation -- fear
+1 -- manipulation -- anger, fear
+1 -- manslaughter -- anger, disgust, fear, sadness, surprise
+1 -- manual -- trust
+1 -- manure -- disgust
+1 -- margin -- sadness
+1 -- marine -- trust
+1 -- marriage -- anticipation, joy, trust
+1 -- marrow -- joy, trust
+1 -- marry -- anticipation, fear, joy, surprise, trust
+1 -- marshal -- trust
+1 -- martial -- anger
+1 -- martyr -- fear, sadness
+1 -- martyrdom -- fear, sadness
+1 -- marvel -- surprise
+1 -- marvelous -- joy
+1 -- marvelously -- joy
+1 -- masochism -- anger, disgust, fear
+1 -- massacre -- anger, disgust, fear, sadness
+1 -- massage -- joy
+1 -- masterpiece -- joy
+1 -- mastery -- anger, joy, trust
+1 -- matchmaker -- anticipation
+1 -- mate -- trust, joy, fear, anger, sadness
+1 -- materialist -- disgust
+1 -- maternal -- anticipation
+1 -- mathematical -- trust
+1 -- matrimony -- anticipation, joy, trust
+1 -- matron -- trust
+1 -- mausoleum -- sadness
+1 -- maxim -- trust
+1 -- meaningless -- sadness
+1 -- measles -- disgust, fear, sadness
+1 -- measure -- trust
+1 -- medal -- anticipation, joy, surprise, trust
+1 -- meddle -- anger
+1 -- mediate -- anticipation, trust
+1 -- mediator -- anticipation, trust
+1 -- medical -- anticipation, fear, trust
+1 -- meditate -- anticipation, joy, trust
+1 -- meek -- sadness
+1 -- melancholic -- sadness
+1 -- melancholy -- sadness
+1 -- melee -- fear
+1 -- melodrama -- anger, sadness
+1 -- meltdown -- sadness
+1 -- memorable -- joy, surprise, trust
+1 -- memorial -- sadness
+1 -- menace -- anger, fear
+1 -- mentor -- trust
+1 -- mercenary -- fear
+1 -- merchant -- trust
+1 -- merciless -- fear
+1 -- merge -- anticipation
+1 -- merit -- trust
+1 -- meritorious -- joy, trust
+1 -- merriment -- joy, surprise
+1 -- merry -- joy
+1 -- mess -- disgust
+1 -- messenger -- trust
+1 -- messy -- disgust
+1 -- microscope -- trust
+1 -- midwife -- anticipation, joy, trust
+1 -- mighty -- anger, fear, joy, trust
+1 -- mildew -- disgust
+1 -- military -- fear
+1 -- militia -- anger, fear, sadness
+1 -- mill -- anticipation
+1 -- mimicry -- surprise
+1 -- ministry -- joy, trust
+1 -- miracle -- anticipation, joy, surprise, trust
+1 -- miraculous -- joy, surprise
+1 -- mire -- disgust
+1 -- mirth -- joy
+1 -- misbehavior -- anger, disgust, surprise
+1 -- miscarriage -- fear, sadness
+1 -- misconception -- anger, disgust, fear
+1 -- misconduct -- disgust
+1 -- miserable -- anger, disgust, sadness
+1 -- miserably -- sadness
+1 -- misery -- anger, disgust, fear, sadness
+1 -- misfortune -- fear, sadness
+1 -- misguide -- disgust
+1 -- mishap -- disgust, fear, sadness, surprise
+1 -- mislead -- anger, fear, trust, disgust
+1 -- misplace -- anger, disgust
+1 -- misrepresentation -- sadness
+1 -- misrepresent -- anger
+1 -- missile -- fear
+1 -- miss -- fear, sadness
+1 -- misstatement -- anger, disgust
+1 -- mistake -- sadness
+1 -- mistaken -- fear
+1 -- mistress -- anger, disgust
+1 -- mistrust -- disgust, fear
+1 -- misunderstand -- anger, sadness
+1 -- mite -- disgust
+1 -- moan -- fear, sadness
+1 -- moat -- trust
+1 -- mob -- anger, fear
+1 -- mobile -- anticipation
+1 -- mockery -- disgust
+1 -- mock -- anger, disgust, sadness
+1 -- moderator -- trust
+1 -- modest -- trust
+1 -- modify -- surprise
+1 -- molestation -- anger, disgust, fear, sadness
+1 -- momentum -- anticipation
+1 -- monetary -- anticipation
+1 -- money -- anger, anticipation, joy, surprise, trust
+1 -- monk -- trust
+1 -- monochrome -- disgust
+1 -- monogamy -- trust
+1 -- monsoon -- sadness
+1 -- monster -- fear
+1 -- monstrosity -- anger, disgust, fear, surprise
+1 -- moody -- anger, sadness
+1 -- mooring -- trust
+1 -- moral -- anger, trust, anticipation, disgust, joy, surprise
+1 -- morality -- trust
+1 -- morbid -- sadness
+1 -- morbidity -- anger, disgust, fear, sadness
+1 -- morgue -- disgust, fear, sadness
+1 -- moribund -- sadness
+1 -- morn -- anticipation
+1 -- morrow -- anticipation
+1 -- mortality -- anger, fear, sadness
+1 -- mortgage -- fear
+1 -- mortgagee -- trust
+1 -- mortgagor -- fear
+1 -- mortification -- anticipation, disgust, fear, sadness
+1 -- mortuary -- fear, sadness
+1 -- mosquito -- anger, disgust
+1 -- mother -- anticipation, joy, sadness, trust
+1 -- motherhood -- joy, trust
+1 -- motion -- anticipation
+1 -- mountain -- anticipation
+1 -- mourn -- sadness
+1 -- mournful -- anger, fear, sadness
+1 -- mouth -- surprise
+1 -- mouthful -- disgust
+1 -- muck -- disgust
+1 -- mucous -- disgust
+1 -- mucus -- disgust
+1 -- muddy -- disgust
+1 -- muff -- anger, disgust
+1 -- mug -- anger, fear, sadness
+1 -- mule -- anger, trust
+1 -- mum -- fear
+1 -- murder -- anger, disgust, fear, sadness, surprise
+1 -- murderer -- anger, disgust, fear, sadness
+1 -- murderous -- anger, disgust, fear, sadness, surprise
+1 -- murky -- disgust, sadness
+1 -- music -- joy, sadness
+1 -- musical -- anger, anticipation, joy, sadness, surprise, trust
+1 -- musket -- fear
+1 -- musty -- disgust
+1 -- mutable -- anticipation
+1 -- mutilate -- disgust
+1 -- mutilation -- anger, disgust, fear, sadness
+1 -- mutiny -- anger, disgust, fear, surprise
+1 -- mutter -- anger
+1 -- muzzle -- fear
+1 -- myopia -- anger, sadness
+1 -- mysterious -- anticipation, fear, surprise
+1 -- mystery -- anticipation, surprise
+1 -- mystic -- surprise
+1 -- nab -- surprise
+1 -- nag -- anger
+1 -- nameless -- disgust
+1 -- nap -- joy
+1 -- napkin -- sadness
+1 -- nappy -- disgust
+1 -- nascent -- anticipation
+1 -- nasty -- anger, disgust, fear, sadness
+1 -- nation -- trust
+1 -- nausea -- disgust
+1 -- nauseous -- disgust, sadness
+1 -- navigable -- anticipation
+1 -- navigator -- anticipation, trust
+1 -- necessity -- sadness
+1 -- nefarious -- disgust, fear, sadness, surprise
+1 -- negation -- anger
+1 -- negative -- sadness
+1 -- neglect -- anger, disgust, sadness
+1 -- negotiate -- trust
+1 -- negro -- sadness
+1 -- neighbor -- anticipation, trust
+1 -- neighborhood -- anticipation
+1 -- nepotism -- anger, disgust, sadness
+1 -- nervous -- anticipation, fear
+1 -- nervousness -- fear
+1 -- nest -- trust
+1 -- nestle -- trust
+1 -- nether -- anger, fear, sadness
+1 -- nettle -- anger, disgust
+1 -- network -- anticipation
+1 -- neuralgia -- fear, sadness
+1 -- neurosis -- fear, sadness
+1 -- neurotic -- disgust, fear
+1 -- neutral -- anticipation, trust
+1 -- neutrality -- trust
+1 -- newcomer -- fear, surprise
+1 -- nicotine -- disgust
+1 -- nightmare -- fear
+1 -- nobility -- anticipation, trust
+1 -- noble -- trust
+1 -- nobleman -- trust
+1 -- noisy -- anger
+1 -- noncompliance -- anger, anticipation, fear, sadness
+1 -- nonsensical -- sadness
+1 -- noose -- sadness
+1 -- nose -- disgust
+1 -- notable -- joy, trust
+1 -- notary -- trust
+1 -- nothingness -- sadness
+1 -- notification -- anticipation
+1 -- notoriety -- anger, disgust, fear
+1 -- noxious -- disgust, fear
+1 -- nuisance -- anger
+1 -- nullify -- surprise
+1 -- numbness -- sadness
+1 -- nun -- trust
+1 -- nurse -- trust
+1 -- nursery -- joy, trust
+1 -- nurture -- anger, anticipation, disgust, fear, joy, trust
+1 -- nutritious -- sadness
+1 -- oasis -- anticipation, joy, trust
+1 -- oath -- trust
+1 -- obedience -- trust
+1 -- obese -- disgust
+1 -- obesity -- disgust, sadness
+1 -- obey -- fear, trust
+1 -- obi -- disgust, fear
+1 -- obit -- sadness, surprise
+1 -- obituary -- sadness
+1 -- objection -- anger
+1 -- objective -- anticipation, trust
+1 -- oblige -- trust, anger, anticipation, disgust, fear, joy, surprise
+1 -- obligor -- fear
+1 -- obliterate -- anger, fear, sadness
+1 -- obliteration -- fear, sadness
+1 -- oblivion -- anger, fear
+1 -- obnoxious -- anger, disgust, sadness
+1 -- obscene -- disgust
+1 -- obscenity -- anger, disgust
+1 -- obstacle -- anger, fear, sadness
+1 -- obstetrician -- trust
+1 -- obstruct -- anger, fear
+1 -- obstructive -- anger
+1 -- obtainable -- joy
+1 -- obvious -- trust
+1 -- occasional -- surprise
+1 -- occult -- disgust, fear
+1 -- occupant -- trust
+1 -- octopus -- disgust
+1 -- oddity -- disgust, sadness, surprise
+1 -- odious -- anger, disgust, fear
+1 -- offend -- anger, disgust, sadness
+1 -- offender -- anger, disgust, fear, sadness
+1 -- offense -- anger, disgust, fear, sadness
+1 -- offensive -- anger, disgust
+1 -- offering -- trust
+1 -- officer -- trust
+1 -- official -- trust
+1 -- offset -- anticipation
+1 -- ogre -- disgust, fear
+1 -- olfactory -- anticipation
+1 -- omen -- anticipation, fear
+1 -- ominous -- anticipation, fear
+1 -- omnipotence -- fear
+1 -- omniscient -- trust
+1 -- onerous -- anger, sadness
+1 -- ongoing -- anticipation
+1 -- onset -- anticipation
+1 -- ooze -- disgust
+1 -- opera -- anger, anticipation, fear, joy, sadness, surprise, trust
+1 -- operation -- fear, trust
+1 -- opinionated -- anger
+1 -- opium -- anger, disgust, fear, sadness
+1 -- opponent -- anger, anticipation, disgust, fear
+1 -- opportune -- joy
+1 -- opportunity -- anticipation
+1 -- oppose -- anger, fear
+1 -- opposition -- anger
+1 -- oppress -- anger, disgust, fear, sadness
+1 -- oppression -- anger, disgust, fear, sadness
+1 -- oppressive -- anger, disgust, fear, sadness
+1 -- oppressor -- anger, fear, sadness
+1 -- optimism -- anticipation, joy, surprise, trust
+1 -- optimist -- trust
+1 -- oracle -- anticipation, trust
+1 -- orc -- anger, disgust, fear
+1 -- orchestra -- anger, joy, sadness, trust
+1 -- ordain -- trust
+1 -- ordeal -- anger, surprise
+1 -- ordinance -- trust
+1 -- ordination -- anticipation, joy, trust
+1 -- ordnance -- fear
+1 -- organ -- anticipation, joy
+1 -- organization -- anticipation, joy, surprise, trust
+1 -- orgasm -- anticipation, joy
+1 -- originality -- surprise
+1 -- orphan -- fear, sadness
+1 -- orthodoxy -- trust
+1 -- oust -- anger, sadness
+1 -- outburst -- anger, fear, joy, sadness, surprise
+1 -- outcast -- disgust, fear, sadness
+1 -- outcry -- anger, fear, surprise
+1 -- outdo -- anticipation
+1 -- outhouse -- disgust
+1 -- outpost -- fear
+1 -- outrage -- anger, disgust
+1 -- outrageous -- surprise
+1 -- outsider -- fear
+1 -- outstanding -- joy
+1 -- ovation -- sadness
+1 -- overbear -- anger
+1 -- overdue -- anticipation, sadness, surprise
+1 -- overestimate -- surprise
+1 -- overjoyed -- joy
+1 -- overload -- sadness
+1 -- overpower -- anger, fear
+1 -- overprice -- anger, disgust, sadness
+1 -- overt -- fear
+1 -- overthrow -- anticipation, fear
+1 -- overture -- anticipation
+1 -- overwhelmed -- sadness
+1 -- owe -- anger, anticipation, disgust, fear, sadness, trust
+1 -- pact -- trust
+1 -- paddle -- anticipation
+1 -- pain -- fear, sadness
+1 -- painful -- anger, disgust, fear, sadness
+1 -- painfully -- sadness
+1 -- palpable -- surprise
+1 -- palsy -- disgust, fear, sadness
+1 -- pandemic -- fear, sadness
+1 -- pang -- surprise
+1 -- panic -- fear
+1 -- parachute -- fear
+1 -- parade -- anticipation, fear, joy, surprise
+1 -- paragon -- anticipation, joy, trust
+1 -- paralysis -- anger, anticipation, fear, sadness
+1 -- paranoia -- fear
+1 -- parasite -- disgust, fear
+1 -- pare -- anger, anticipation, fear, sadness
+1 -- parietal -- trust
+1 -- parish -- trust
+1 -- parliament -- trust
+1 -- parole -- anticipation
+1 -- parrot -- disgust
+1 -- partake -- trust
+1 -- part -- sadness
+1 -- partnership -- trust
+1 -- passenger -- anticipation
+1 -- passion -- anticipation, joy, trust
+1 -- passionate -- anticipation, joy, trust
+1 -- pastor -- joy, trust
+1 -- pastry -- joy
+1 -- pathetic -- disgust, sadness
+1 -- patience -- anticipation, trust
+1 -- patient -- anticipation
+1 -- patriarchal -- trust
+1 -- patrol -- trust
+1 -- patron -- trust
+1 -- patronage -- trust
+1 -- patter -- anger
+1 -- paucity -- anger, disgust, sadness
+1 -- pauper -- sadness
+1 -- pavement -- trust
+1 -- pawn -- trust
+1 -- pay -- anticipation, joy, trust
+1 -- payback -- anger
+1 -- peace -- anticipation, joy, trust
+1 -- peaceful -- anticipation, joy, surprise, trust
+1 -- pedigree -- trust
+1 -- penal -- fear, sadness
+1 -- penalty -- anger, fear, sadness
+1 -- penance -- fear, sadness
+1 -- penetration -- anger, fear
+1 -- penitentiary -- anger
+1 -- pensive -- sadness
+1 -- perceive -- trust
+1 -- perchance -- surprise
+1 -- perdition -- anger, disgust, fear, sadness
+1 -- perennial -- trust
+1 -- perfect -- anticipation, joy, trust
+1 -- perfection -- anticipation, joy, surprise, trust
+1 -- peri -- surprise
+1 -- peril -- anticipation, fear, sadness
+1 -- perilous -- anticipation, fear, sadness
+1 -- periodicity -- trust
+1 -- perish -- fear, sadness
+1 -- perjury -- fear, surprise
+1 -- pernicious -- anger, fear, sadness
+1 -- perpetrator -- anger, disgust, fear, sadness
+1 -- perpetuate -- anticipation
+1 -- perpetuity -- anticipation, trust
+1 -- perplexity -- sadness
+1 -- persecute -- anger, fear
+1 -- persecution -- anger, disgust, fear, sadness
+1 -- personal -- trust
+1 -- perspiration -- disgust
+1 -- persuade -- trust
+1 -- pertinent -- trust
+1 -- perturbation -- fear
+1 -- perverse -- anger, disgust, fear
+1 -- perversion -- anger, disgust, sadness
+1 -- pervert -- anger, disgust
+1 -- pessimism -- anger, fear, sadness
+1 -- pessimist -- fear, sadness
+1 -- pest -- anger, disgust, fear
+1 -- pestilence -- disgust, fear
+1 -- petroleum -- disgust
+1 -- phalanx -- fear, trust
+1 -- phantom -- fear
+1 -- philanthropic -- trust
+1 -- philanthropist -- trust
+1 -- philosopher -- trust
+1 -- phlegm -- disgust
+1 -- phony -- anger, disgust
+1 -- physician -- trust
+1 -- physicist -- trust
+1 -- picket -- anger, anticipation, fear
+1 -- picnic -- anticipation, joy, surprise, trust
+1 -- picturesque -- joy
+1 -- pig -- disgust
+1 -- pile -- disgust
+1 -- pill -- trust
+1 -- pillage -- anger, disgust, fear
+1 -- pilot -- trust
+1 -- pimple -- disgust
+1 -- pine -- sadness
+1 -- pinion -- fear
+1 -- pious -- disgust, sadness, trust
+1 -- pique -- anger
+1 -- pirate -- anger
+1 -- pitfall -- anger, disgust, fear, sadness, surprise
+1 -- pith -- trust
+1 -- pity -- sadness
+1 -- pivot -- trust
+1 -- placard -- surprise
+1 -- plagiarism -- disgust
+1 -- plague -- disgust, fear, sadness
+1 -- plaintive -- sadness
+1 -- plan -- anticipation
+1 -- planning -- anticipation, trust
+1 -- playful -- anger, joy, surprise, trust
+1 -- playground -- anticipation, joy, surprise, trust
+1 -- playhouse -- joy
+1 -- plea -- anticipation, fear, sadness
+1 -- pleasant -- anticipation, joy, surprise, trust
+1 -- pleased -- joy
+1 -- pleasurable -- joy
+1 -- pledge -- joy, trust
+1 -- plight -- anticipation, disgust, fear, sadness
+1 -- plummet -- fear
+1 -- plump -- anticipation
+1 -- plunder -- anger, disgust, fear, sadness, surprise
+1 -- plunge -- fear
+1 -- pneumonia -- fear
+1 -- poach -- anger, disgust, fear, sadness
+1 -- pointless -- sadness
+1 -- poison -- anger, disgust, fear, sadness
+1 -- poisonous -- anger, disgust, fear, sadness
+1 -- poke -- anticipation
+1 -- polarity -- surprise
+1 -- polemic -- anger, disgust
+1 -- police -- fear, trust
+1 -- policeman -- fear, trust
+1 -- policy -- trust
+1 -- polio -- fear, sadness
+1 -- politic -- disgust
+1 -- politics -- anger
+1 -- poll -- trust
+1 -- pollute -- disgust
+1 -- pollution -- disgust
+1 -- polygamy -- disgust
+1 -- pompous -- disgust
+1 -- pontiff -- trust
+1 -- pop -- surprise
+1 -- porn -- disgust
+1 -- pornography -- disgust
+1 -- posse -- fear, anticipation, joy, trust
+1 -- possess -- anger, disgust, fear
+1 -- possession -- anger, disgust, fear
+1 -- possibility -- anticipation
+1 -- posthumous -- sadness
+1 -- postponement -- surprise
+1 -- pound -- anger
+1 -- poverty -- anger, disgust, fear, sadness
+1 -- pow -- anger
+1 -- powerful -- anger, anticipation, disgust, fear, joy, trust
+1 -- powerfully -- fear
+1 -- powerless -- anger, disgust, fear, sadness
+1 -- practice -- joy, surprise, trust
+1 -- practise -- anticipation
+1 -- praise -- joy, trust
+1 -- praiseworthy -- anticipation, joy, surprise, trust
+1 -- prank -- surprise
+1 -- pray -- anticipation, fear, joy, surprise, trust
+1 -- precarious -- anticipation, fear, sadness
+1 -- precedence -- trust
+1 -- precious -- anticipation, joy, surprise
+1 -- precipice -- fear
+1 -- preclude -- anger
+1 -- precursor -- anticipation
+1 -- predicament -- fear
+1 -- predict -- anticipation
+1 -- prediction -- anticipation
+1 -- predilection -- anticipation
+1 -- predispose -- anticipation
+1 -- predominant -- trust
+1 -- prefer -- trust
+1 -- pregnancy -- disgust
+1 -- prejudice -- anger, disgust, fear
+1 -- prejudicial -- anger
+1 -- preliminary -- anticipation
+1 -- premature -- surprise
+1 -- premeditate -- fear
+1 -- preparation -- anticipation
+1 -- preparatory -- anticipation
+1 -- prepare -- anticipation
+1 -- prepared -- anticipation, trust
+1 -- preparedness -- anticipation
+1 -- preponderance -- trust
+1 -- prerequisite -- anticipation
+1 -- prescient -- anticipation
+1 -- present -- anticipation, joy, surprise, trust
+1 -- preservative -- anticipation, joy, surprise, trust
+1 -- president -- trust
+1 -- prestige -- joy, trust
+1 -- presto -- joy, surprise
+1 -- presumption -- trust
+1 -- presumptuous -- anger, disgust
+1 -- pretend -- anger
+1 -- pretty -- anticipation, joy, trust
+1 -- prevail -- anticipation, joy
+1 -- prevalent -- trust
+1 -- prevent -- fear
+1 -- prevention -- anticipation
+1 -- prey -- fear
+1 -- prick -- anger, disgust, fear, surprise
+1 -- pride -- joy
+1 -- priest -- trust
+1 -- priesthood -- anticipation, joy, sadness, trust
+1 -- primer -- trust
+1 -- princely -- anticipation, joy, surprise, trust
+1 -- principal -- trust
+1 -- prison -- anger, fear, sadness
+1 -- prisoner -- anger, disgust, fear, sadness
+1 -- privileged -- joy, trust
+1 -- privy -- trust
+1 -- probability -- anticipation
+1 -- probation -- anticipation, fear, sadness
+1 -- probity -- trust
+1 -- problem -- fear, sadness
+1 -- procedure -- fear
+1 -- proceed -- anticipation
+1 -- procession -- joy, sadness, surprise
+1 -- proctor -- trust
+1 -- production -- anticipation
+1 -- profane -- anger
+1 -- profanity -- anger
+1 -- professional -- trust
+1 -- professor -- trust
+1 -- professorship -- trust
+1 -- proficiency -- anticipation, joy, surprise, trust
+1 -- proficient -- trust
+1 -- prognosis -- anticipation, fear
+1 -- prognostic -- anticipation
+1 -- progress -- anticipation, joy
+1 -- progression -- anticipation, joy, sadness, trust
+1 -- prohibit -- anger, disgust, fear
+1 -- projectile -- fear
+1 -- prologue -- anticipation
+1 -- prolong -- disgust
+1 -- promise -- joy, trust
+1 -- proof -- trust
+1 -- prophecy -- anticipation
+1 -- prophet -- anticipation, trust
+1 -- prophetic -- anticipation
+1 -- prophylactic -- anticipation, trust
+1 -- prosecute -- anger, fear, sadness
+1 -- prosecution -- disgust
+1 -- prospectively -- anticipation
+1 -- prosper -- anticipation, joy
+1 -- prosperous -- joy
+1 -- prostitute -- disgust
+1 -- prostitution -- disgust, sadness
+1 -- protect -- trust
+1 -- protector -- trust
+1 -- proud -- anticipation, joy, trust
+1 -- proven -- trust
+1 -- provide -- trust, anticipation, joy
+1 -- proviso -- trust
+1 -- provocation -- anger
+1 -- provoke -- anger, disgust
+1 -- prowl -- fear, surprise
+1 -- proxy -- trust
+1 -- prudent -- trust
+1 -- pry -- anger, anticipation, trust
+1 -- psychosis -- anger, fear, sadness
+1 -- public -- anticipation
+1 -- puke -- disgust
+1 -- puma -- fear, surprise
+1 -- punch -- anger, fear, sadness, surprise
+1 -- punctual -- anticipation, trust
+1 -- pungent -- disgust
+1 -- punish -- fear, anger, anticipation, disgust, sadness
+1 -- punishment -- anger, disgust, fear
+1 -- punitive -- anger, fear, sadness
+1 -- punt -- anticipation
+1 -- puppy -- anticipation, trust
+1 -- purely -- trust
+1 -- purgatory -- disgust, fear
+1 -- purge -- fear
+1 -- purification -- trust
+1 -- purify -- joy, trust
+1 -- purity -- surprise
+1 -- purr -- joy, trust
+1 -- pu -- disgust
+1 -- putative -- trust
+1 -- quack -- disgust
+1 -- quagmire -- disgust
+1 -- quail -- fear
+1 -- quaint -- joy, trust
+1 -- quake -- fear
+1 -- qualify -- trust
+1 -- quandary -- anger, fear
+1 -- quarantine -- fear
+1 -- quarrel -- anger
+1 -- quash -- fear
+1 -- quest -- anticipation
+1 -- questionable -- disgust
+1 -- quicken -- anticipation
+1 -- quickness -- surprise
+1 -- quicksilver -- surprise
+1 -- quiet -- sadness
+1 -- quiver -- fear
+1 -- quote -- anticipation, surprise
+1 -- rabble -- anger, fear
+1 -- rabid -- anger, anticipation, disgust, fear, sadness
+1 -- rack -- sadness
+1 -- radar -- trust
+1 -- radiance -- anticipation, joy, trust
+1 -- radiant -- joy
+1 -- radiation -- fear
+1 -- radioactive -- fear
+1 -- radon -- fear
+1 -- raffle -- anticipation, surprise
+1 -- rage -- anger
+1 -- rag -- anger, disgust, fear
+1 -- raid -- anger, fear, surprise
+1 -- rail -- anger, anticipation
+1 -- rainy -- sadness
+1 -- ram -- anger, anticipation
+1 -- rampage -- anger, fear
+1 -- rancid -- disgust
+1 -- randomly -- surprise
+1 -- ranger -- trust
+1 -- ransom -- anger, fear
+1 -- rape -- anger, disgust, fear, sadness
+1 -- rapid -- surprise
+1 -- rap -- anger
+1 -- rapt -- joy, surprise, trust
+1 -- raptor -- fear
+1 -- rapture -- anticipation, joy
+1 -- rarity -- surprise
+1 -- rascal -- anger, disgust, fear
+1 -- rash -- disgust
+1 -- rat -- disgust, fear
+1 -- ratify -- trust
+1 -- rating -- anger, fear, sadness
+1 -- rational -- trust
+1 -- rattlesnake -- fear
+1 -- rave -- anger, disgust, joy, surprise, trust, anticipation, fear
+1 -- ravenous -- anger, fear, sadness
+1 -- ravine -- fear
+1 -- razor -- fear
+1 -- react -- anger, fear
+1 -- readiness -- anticipation, joy, trust
+1 -- ready -- anticipation
+1 -- real -- trust
+1 -- reappear -- surprise
+1 -- reassurance -- trust
+1 -- reassure -- trust
+1 -- rebel -- anger, fear
+1 -- rebellion -- anger, disgust, fear
+1 -- recalcitrant -- anger, disgust
+1 -- receive -- anticipation, joy, surprise
+1 -- recess -- fear
+1 -- recession -- anger, disgust, fear, sadness
+1 -- recidivism -- anger, disgust, sadness
+1 -- recipient -- anticipation
+1 -- reckless -- anger, fear
+1 -- recklessness -- anger, disgust, fear, surprise
+1 -- recline -- trust
+1 -- recognizable -- anticipation
+1 -- recombination -- anticipation
+1 -- recommend -- trust
+1 -- reconciliation -- anticipation, joy, trust
+1 -- reconsideration -- trust
+1 -- reconstruct -- anticipation
+1 -- reconstruction -- anticipation
+1 -- recreation -- anticipation, joy
+1 -- recreational -- anticipation, joy
+1 -- recruit -- trust
+1 -- recurrent -- anticipation
+1 -- referee -- trust
+1 -- reflex -- surprise
+1 -- reflux -- disgust
+1 -- refugee -- sadness
+1 -- refuse -- sadness
+1 -- refutation -- fear
+1 -- regal -- trust
+1 -- regatta -- anticipation
+1 -- regent -- trust
+1 -- regiment -- fear
+1 -- registry -- trust
+1 -- regret -- sadness
+1 -- regrettable -- sadness
+1 -- regularity -- anticipation, trust
+1 -- regulatory -- fear
+1 -- regurgitation -- disgust
+1 -- rehabilitation -- anticipation
+1 -- reimbursement -- trust
+1 -- reinforcement -- trust
+1 -- reject -- anger, fear, sadness
+1 -- rejection -- anger, disgust, fear, sadness
+1 -- rejoice -- anticipation, joy, surprise, trust
+1 -- rekindle -- anticipation, fear, joy, surprise
+1 -- relapse -- fear, sadness
+1 -- related -- trust
+1 -- relative -- trust
+1 -- relevant -- trust
+1 -- reliability -- trust
+1 -- reliable -- trust
+1 -- reliance -- trust
+1 -- relic -- sadness
+1 -- religion -- trust
+1 -- reluctant -- fear
+1 -- remains -- disgust, fear, trust
+1 -- remand -- anger
+1 -- remarkable -- joy, surprise, trust
+1 -- remedy -- anticipation, joy, trust
+1 -- remiss -- anger, disgust, sadness
+1 -- remorse -- sadness
+1 -- remove -- anger, fear, sadness
+1 -- renegade -- anger
+1 -- renounce -- anger
+1 -- renovate -- anticipation
+1 -- renovation -- anticipation, joy
+1 -- reparation -- trust
+1 -- repay -- anger, anticipation, joy, trust
+1 -- repellant -- disgust, fear
+1 -- repellent -- anger, disgust, fear
+1 -- repel -- disgust
+1 -- repent -- fear
+1 -- reporter -- trust
+1 -- represent -- anticipation
+1 -- repress -- sadness
+1 -- repression -- fear
+1 -- reprimand -- anger
+1 -- reprisal -- anger, fear, sadness
+1 -- reproach -- anger, disgust, sadness
+1 -- reproductive -- joy
+1 -- repudiation -- anger, disgust
+1 -- repulsion -- disgust, fear
+1 -- reputable -- trust
+1 -- requiem -- sadness
+1 -- rescue -- anticipation, joy, surprise, trust
+1 -- resection -- fear
+1 -- resent -- anger
+1 -- resentful -- anger
+1 -- resentment -- anger, disgust, sadness
+1 -- resign -- anger, disgust, fear, sadness
+1 -- resignation -- sadness, surprise
+1 -- resistance -- anger
+1 -- resistant -- fear
+1 -- resist -- anger, fear, sadness
+1 -- resource -- joy, trust
+1 -- respect -- anticipation, joy, trust
+1 -- respectable -- trust
+1 -- respectful -- trust
+1 -- respite -- joy, trust
+1 -- resplendent -- joy
+1 -- responsible -- trust
+1 -- responsive -- anticipation, trust
+1 -- restitution -- anger
+1 -- restlessness -- anticipation
+1 -- restorative -- anticipation, joy, trust
+1 -- restrain -- anger, fear
+1 -- restrict -- sadness
+1 -- restriction -- anger, fear, sadness
+1 -- result -- anticipation
+1 -- resultant -- anticipation
+1 -- retain -- trust
+1 -- retaliate -- anger
+1 -- retaliation -- anger, fear
+1 -- retaliatory -- anger
+1 -- retard -- disgust, fear, sadness
+1 -- reticent -- fear
+1 -- retirement -- anticipation, fear, joy, sadness, trust
+1 -- retract -- anger
+1 -- retrenchment -- fear
+1 -- retribution -- anger, fear, sadness
+1 -- reunion -- anticipation, trust
+1 -- revel -- joy
+1 -- revenge -- anger, anticipation, fear, surprise
+1 -- revere -- anticipation, joy, trust
+1 -- reverence -- joy, trust
+1 -- reverend -- joy
+1 -- reverie -- joy, trust
+1 -- reversal -- anger, disgust, surprise
+1 -- revival -- anticipation, joy, trust
+1 -- revive -- anticipation
+1 -- revoke -- anger, disgust, fear, sadness
+1 -- revolt -- anger, surprise, disgust, fear
+1 -- revolution -- anger, anticipation, fear, sadness, surprise
+1 -- revolver -- anger, fear, sadness
+1 -- revulsion -- anger, disgust, fear
+1 -- reward -- anticipation, joy, surprise, trust
+1 -- rheumatism -- anger, fear, sadness
+1 -- rhythmical -- joy, surprise
+1 -- ribbon -- anger, anticipation, joy
+1 -- riddle -- surprise
+1 -- ridicule -- anger, disgust, sadness
+1 -- ridiculous -- anger, disgust
+1 -- rifle -- anger, fear
+1 -- rigor -- disgust, fear
+1 -- ringer -- anger
+1 -- riot -- anger, fear
+1 -- riotous -- anger, fear, surprise
+1 -- ripen -- anticipation
+1 -- rise -- anticipation, joy
+1 -- risk -- anticipation, fear
+1 -- risky -- anticipation, fear
+1 -- rivalry -- anger
+1 -- roadster -- joy, trust
+1 -- rob -- anger, disgust, fear, sadness
+1 -- robber -- disgust, fear
+1 -- robbery -- anger, disgust, fear, sadness
+1 -- rocket -- anger
+1 -- rod -- fear, trust
+1 -- rogue -- disgust
+1 -- rollick -- joy
+1 -- romance -- anticipation, fear, joy, sadness, surprise, trust
+1 -- romantic -- anticipation, joy, trust
+1 -- romanticism -- joy
+1 -- romp -- joy
+1 -- rook -- anger, disgust
+1 -- root -- trust
+1 -- rot -- disgust, fear, sadness
+1 -- rota -- trust
+1 -- roulette -- anticipation
+1 -- routine -- trust
+1 -- row -- anger
+1 -- rubbish -- disgust
+1 -- rubble -- fear, sadness
+1 -- rue -- sadness
+1 -- ruin -- fear, sadness, anger, disgust
+1 -- ruinous -- anger, disgust, fear, sadness
+1 -- rule -- fear, trust
+1 -- rumor -- sadness
+1 -- runaway -- sadness
+1 -- rupture -- fear, sadness, surprise
+1 -- ruthless -- anger, disgust, fear
+1 -- saber -- anger, fear
+1 -- sabotage -- anger, disgust, fear, sadness, surprise
+1 -- sacrifice -- disgust, fear, sadness
+1 -- sadly -- sadness
+1 -- sadness -- sadness, trust
+1 -- safe -- joy, trust
+1 -- safeguard -- trust
+1 -- safekeeping -- trust
+1 -- sag -- fear
+1 -- sage -- trust
+1 -- saint -- anticipation, joy, surprise, trust
+1 -- saintly -- anticipation, joy, surprise, trust
+1 -- salary -- anticipation, joy, trust
+1 -- saliva -- anticipation
+1 -- sally -- surprise
+1 -- saloon -- anger
+1 -- salutary -- joy, trust
+1 -- salute -- joy
+1 -- salvation -- anticipation, joy, trust
+1 -- samurai -- fear
+1 -- sanctification -- joy, trust
+1 -- sanctify -- anticipation, joy, sadness, surprise, trust
+1 -- sanctuary -- anticipation, joy, trust
+1 -- sap -- sadness
+1 -- sappy -- trust
+1 -- sarcasm -- anger, disgust, sadness
+1 -- sarcoma -- fear, sadness
+1 -- satanic -- anger
+1 -- satisfied -- joy
+1 -- saturate -- disgust
+1 -- savage -- anger, fear
+1 -- savagery -- anger, fear
+1 -- save -- joy, trust
+1 -- savor -- anticipation, disgust, joy, sadness, trust
+1 -- scaffold -- fear
+1 -- scalpel -- fear
+1 -- scandal -- fear
+1 -- scandalous -- anger
+1 -- scapegoat -- anger, fear
+1 -- scar -- anger, disgust, fear, sadness
+1 -- scarce -- fear, sadness
+1 -- scarcely -- sadness
+1 -- scarcity -- anger, fear, sadness
+1 -- scare -- anger, anticipation, fear, surprise
+1 -- scarecrow -- fear
+1 -- sceptical -- trust
+1 -- schism -- anger
+1 -- schizophrenia -- anger, disgust, fear, sadness
+1 -- scholarship -- joy
+1 -- school -- trust
+1 -- scientific -- trust
+1 -- scientist -- anticipation, trust
+1 -- scoff -- anger, disgust
+1 -- scold -- anger, disgust, fear, sadness
+1 -- scorch -- anger
+1 -- score -- anticipation, joy, surprise
+1 -- scorn -- anger
+1 -- scorpion -- anger, disgust, fear, surprise
+1 -- scoundrel -- anger, disgust, fear, trust
+1 -- scourge -- anger, fear, sadness
+1 -- scrapie -- anger, fear, sadness
+1 -- scream -- anger, disgust, fear, surprise
+1 -- screech -- fear, surprise
+1 -- screw -- anger
+1 -- scrimmage -- surprise
+1 -- scripture -- trust
+1 -- scrub -- disgust
+1 -- scrutinize -- anticipation
+1 -- scum -- disgust
+1 -- seal -- trust
+1 -- seclude -- sadness
+1 -- seclusion -- fear
+1 -- secrecy -- surprise, trust
+1 -- secret -- trust
+1 -- secrete -- disgust
+1 -- secretion -- disgust
+1 -- sectarian -- anger, fear
+1 -- secular -- anticipation
+1 -- security -- trust
+1 -- sedition -- anger, sadness
+1 -- seductive -- anticipation
+1 -- seek -- anticipation
+1 -- segregate -- anger, disgust, sadness
+1 -- seize -- fear
+1 -- seizure -- fear
+1 -- selfish -- anger, disgust
+1 -- senate -- trust
+1 -- senile -- fear, sadness
+1 -- seniority -- trust
+1 -- sensational -- joy
+1 -- senseless -- anger, disgust, fear, sadness, surprise
+1 -- sensual -- anticipation, joy, surprise, trust
+1 -- sensuality -- anticipation, joy
+1 -- sensuous -- joy
+1 -- sentence -- anger, anticipation, disgust, fear, sadness
+1 -- sentinel -- trust
+1 -- sentry -- trust
+1 -- separatist -- anger, disgust
+1 -- sepsis -- fear, sadness
+1 -- septic -- disgust
+1 -- sequel -- anticipation
+1 -- sequestration -- sadness
+1 -- serene -- trust
+1 -- serenity -- anticipation, joy, trust
+1 -- serial -- anticipation
+1 -- series -- trust
+1 -- seriousness -- fear, sadness
+1 -- sermon -- trust
+1 -- serpent -- disgust, fear
+1 -- servant -- trust
+1 -- serve -- trust
+1 -- servile -- disgust, fear, sadness
+1 -- setback -- sadness
+1 -- settlor -- fear
+1 -- severance -- sadness
+1 -- sewage -- disgust
+1 -- sewer -- disgust
+1 -- sewerage -- disgust
+1 -- sex -- anticipation, joy, trust
+1 -- shabby -- disgust
+1 -- shack -- disgust, sadness
+1 -- shackle -- anger, anticipation, disgust, fear, sadness
+1 -- shady -- fear
+1 -- shake -- fear
+1 -- shaky -- anger, anticipation, fear
+1 -- sham -- anger, disgust
+1 -- shame -- disgust, fear, sadness
+1 -- shameful -- sadness
+1 -- shameless -- disgust
+1 -- shanghai -- disgust, fear
+1 -- shank -- fear
+1 -- share -- anticipation, joy, trust
+1 -- sharpen -- anger, anticipation
+1 -- shatter -- anger, fear, sadness, surprise
+1 -- shell -- anger, fear, sadness, surprise
+1 -- shelter -- trust
+1 -- shepherd -- trust
+1 -- sheriff -- trust
+1 -- shin -- anticipation, joy
+1 -- ship -- anticipation
+1 -- shipwreck -- fear, sadness
+1 -- shit -- anger, disgust
+1 -- shiver -- anger, anticipation, fear, sadness
+1 -- shock -- anger, fear, surprise
+1 -- shockingly -- surprise
+1 -- shoddy -- anger, disgust
+1 -- shoot -- anger, fear
+1 -- shooter -- fear
+1 -- shopkeeper -- trust
+1 -- shoplift -- anger, disgust
+1 -- shopping -- anticipation, joy, surprise, trust
+1 -- shortage -- anger, fear, sadness
+1 -- shortly -- anticipation
+1 -- shot -- anger, fear, sadness, surprise
+1 -- shoulder -- trust
+1 -- shout -- anger, surprise
+1 -- shove -- anger
+1 -- show -- trust
+1 -- shrapnel -- fear
+1 -- shriek -- anger, fear, sadness, surprise
+1 -- shrill -- anger, fear, surprise
+1 -- shrink -- fear, sadness
+1 -- shroud -- sadness
+1 -- shudder -- fear
+1 -- shun -- anger, disgust, sadness
+1 -- sib -- trust
+1 -- sick -- disgust, sadness
+1 -- sicken -- anger, disgust, fear, sadness
+1 -- sickly -- disgust, sadness
+1 -- sickness -- disgust, fear, sadness
+1 -- signature -- trust
+1 -- signify -- anticipation
+1 -- silly -- joy
+1 -- simmer -- anger, anticipation
+1 -- simplify -- anticipation, joy, surprise, trust
+1 -- sin -- anger, disgust, fear, sadness
+1 -- sincere -- trust
+1 -- sinful -- anger, disgust, fear, sadness
+1 -- sing -- anticipation, joy, sadness, trust
+1 -- singularly -- surprise
+1 -- sinister -- anger, disgust, fear
+1 -- sinner -- anger, disgust, fear, sadness
+1 -- sir -- trust
+1 -- siren -- fear
+1 -- sisterhood -- anger, sadness, surprise, trust
+1 -- sizzle -- anger
+1 -- skewed -- anger, anticipation
+1 -- skid -- anger, fear, sadness
+1 -- skillful -- trust
+1 -- skirmish -- anger
+1 -- slam -- anger, fear, surprise
+1 -- slander -- anger, disgust
+1 -- slap -- anger, surprise
+1 -- slash -- anger
+1 -- slaughter -- anger, disgust, fear, sadness, surprise
+1 -- slaughterhouse -- anger, disgust, fear, sadness
+1 -- slave -- anger, fear, sadness
+1 -- slavery -- anger, disgust, fear, sadness
+1 -- slay -- anger
+1 -- slayer -- anger, disgust, fear, sadness, surprise
+1 -- slime -- disgust
+1 -- slimy -- disgust
+1 -- slip -- surprise
+1 -- slop -- disgust
+1 -- sloppy -- disgust
+1 -- sloth -- disgust
+1 -- sludge -- disgust
+1 -- slug -- disgust
+1 -- sluggish -- sadness
+1 -- slum -- disgust
+1 -- slump -- sadness
+1 -- slur -- anger, disgust, sadness
+1 -- slush -- disgust, surprise
+1 -- slut -- anger, disgust
+1 -- sly -- anger, disgust, fear
+1 -- smack -- anger
+1 -- smash -- anger, fear
+1 -- smell -- anger, disgust
+1 -- smile -- joy, surprise, trust
+1 -- smite -- anger, fear, sadness
+1 -- smith -- trust
+1 -- smother -- anger, fear, sadness
+1 -- smuggle -- fear
+1 -- smuggler -- anger, disgust, fear
+1 -- smut -- disgust, fear
+1 -- snag -- surprise
+1 -- snake -- disgust, fear
+1 -- snare -- fear
+1 -- snarl -- anger, disgust
+1 -- sneak -- anger, fear, surprise, anticipation, trust
+1 -- sneer -- anger, disgust
+1 -- sneeze -- disgust, surprise
+1 -- snort -- sadness
+1 -- sob -- sadness
+1 -- sobriety -- trust
+1 -- socialism -- disgust, fear
+1 -- socialist -- anger, disgust, fear, sadness
+1 -- soil -- disgust
+1 -- soldier -- anger, sadness
+1 -- solidarity -- trust
+1 -- solidity -- trust
+1 -- somatic -- surprise
+1 -- somber -- sadness
+1 -- sonar -- anticipation
+1 -- sonnet -- joy, sadness
+1 -- sonorous -- joy
+1 -- soot -- disgust
+1 -- soothe -- joy, trust
+1 -- sorcery -- anticipation, fear, surprise
+1 -- sordid -- anger, disgust, fear, sadness
+1 -- sore -- anger, sadness
+1 -- sorely -- sadness
+1 -- soreness -- disgust, sadness
+1 -- sorrow -- fear, sadness
+1 -- sorrowful -- sadness
+1 -- sortie -- fear
+1 -- soulless -- disgust, fear, sadness
+1 -- soulmate -- fear
+1 -- soundness -- anticipation, joy, trust
+1 -- sour -- disgust
+1 -- sovereign -- trust
+1 -- spa -- anticipation, joy, surprise, trust
+1 -- spaniel -- joy, trust
+1 -- spank -- anger, fear, sadness
+1 -- sparkle -- anticipation, joy, surprise
+1 -- spasm -- fear
+1 -- spat -- anger
+1 -- spear -- anger, anticipation, fear
+1 -- special -- joy
+1 -- specialist -- trust
+1 -- specialize -- trust
+1 -- speck -- disgust
+1 -- spectacular -- anticipation, surprise
+1 -- specter -- fear, sadness
+1 -- speculation -- fear, sadness
+1 -- speculative -- anticipation
+1 -- spew -- disgust
+1 -- spider -- disgust, fear
+1 -- spike -- fear
+1 -- spine -- anger
+1 -- spinster -- fear, sadness
+1 -- spirit -- anticipation, joy, surprise
+1 -- spit -- disgust
+1 -- spite -- anger
+1 -- spiteful -- anger
+1 -- splash -- surprise
+1 -- splendid -- joy, surprise
+1 -- splendor -- anticipation, joy, surprise
+1 -- splitting -- sadness
+1 -- spoil -- disgust
+1 -- spoiler -- sadness
+1 -- spokesman -- trust
+1 -- sponsor -- trust
+1 -- spook -- fear
+1 -- spotless -- trust
+1 -- spouse -- joy, trust
+1 -- sprain -- sadness
+1 -- sprite -- fear
+1 -- spur -- fear
+1 -- spurious -- disgust
+1 -- squall -- fear, sadness
+1 -- squeamish -- disgust, fear
+1 -- squelch -- anger, disgust
+1 -- squirm -- disgust
+1 -- stab -- anger, fear, sadness, surprise
+1 -- stable -- trust
+1 -- stagger -- surprise
+1 -- stagnant -- sadness
+1 -- stain -- disgust
+1 -- stalemate -- anger, disgust
+1 -- stalk -- fear
+1 -- stall -- disgust
+1 -- stamen -- trust
+1 -- standoff -- anger, fear
+1 -- standstill -- anger
+1 -- star -- anticipation, joy, trust
+1 -- stark -- trust
+1 -- starry -- anticipation, joy
+1 -- start -- anticipation
+1 -- startle -- fear, surprise
+1 -- starvation -- fear, sadness
+1 -- statement -- trust
+1 -- statistical -- trust
+1 -- steadfast -- trust
+1 -- steady -- surprise, trust
+1 -- steal -- anger, fear, sadness, disgust
+1 -- stealth -- surprise
+1 -- stealthily -- surprise
+1 -- stealthy -- anticipation, fear, surprise
+1 -- sterile -- sadness
+1 -- sterling -- anger, anticipation, joy, trust
+1 -- steward -- trust
+1 -- sticky -- disgust
+1 -- stifle -- anger, fear, sadness
+1 -- stigma -- anger, disgust, fear, sadness
+1 -- stillborn -- sadness
+1 -- stillness -- fear, sadness
+1 -- sting -- anger, fear
+1 -- stingy -- anger, disgust, fear, sadness
+1 -- stink -- disgust
+1 -- stint -- fear, sadness
+1 -- stomach -- disgust
+1 -- stone -- anger
+1 -- stool -- disgust
+1 -- store -- anticipation
+1 -- storm -- anger
+1 -- stormy -- fear
+1 -- straightforward -- trust
+1 -- strain -- anger
+1 -- strait -- fear
+1 -- stranger -- fear
+1 -- strangle -- anger, disgust, fear, sadness, surprise
+1 -- strategist -- anticipation, trust
+1 -- strength -- trust
+1 -- strengthen -- joy, trust
+1 -- stretcher -- fear, sadness
+1 -- stricken -- sadness
+1 -- strife -- anger
+1 -- strike -- anger
+1 -- strip -- sadness, anger, anticipation, disgust, fear
+1 -- strive -- anticipation
+1 -- stroke -- fear, sadness
+1 -- structural -- trust
+1 -- structure -- trust
+1 -- struggle -- anger, fear, sadness
+1 -- stun -- fear, surprise
+1 -- sty -- disgust
+1 -- subito -- surprise
+1 -- subject -- sadness
+1 -- subjugation -- anger, disgust, fear, sadness
+1 -- sublimation -- joy
+1 -- submit -- anticipation
+1 -- subordinate -- fear
+1 -- subscribe -- anticipation
+1 -- subsidence -- sadness
+1 -- subsidy -- anger, disgust
+1 -- substantiate -- trust
+1 -- subversion -- anger, fear
+1 -- subversive -- anger, surprise
+1 -- subvert -- disgust, fear, sadness
+1 -- succeed -- anticipation, joy, surprise, trust
+1 -- success -- anticipation, joy
+1 -- successful -- anticipation, joy, trust
+1 -- sucker -- anger
+1 -- sudden -- surprise
+1 -- suddenly -- surprise
+1 -- sue -- anger, sadness
+1 -- sufferer -- fear, sadness
+1 -- suffer -- disgust, fear, sadness
+1 -- suffocate -- disgust, fear, sadness
+1 -- suffocation -- anger, fear
+1 -- suggest -- trust
+1 -- suicidal -- anger, disgust, fear, sadness
+1 -- suicide -- anger, fear, sadness
+1 -- sullen -- anger, sadness
+1 -- sultan -- fear
+1 -- sump -- disgust
+1 -- sun -- anticipation, joy, surprise, trust
+1 -- sundial -- anticipation, trust
+1 -- sunk -- disgust, fear, sadness
+1 -- sunny -- anticipation, joy, surprise
+1 -- sunset -- anticipation
+1 -- sunshine -- joy
+1 -- superman -- joy, trust
+1 -- superstar -- joy, trust
+1 -- superstition -- fear
+1 -- superstitious -- anticipation, fear
+1 -- supplication -- trust
+1 -- supporter -- joy, trust
+1 -- support -- trust
+1 -- suppress -- anger, fear, sadness
+1 -- suppression -- anger, disgust, fear
+1 -- supremacy -- anger, anticipation, fear, joy, surprise, trust
+1 -- surcharge -- anger
+1 -- surety -- trust
+1 -- surge -- surprise
+1 -- surgery -- fear, sadness
+1 -- surly -- anger, disgust
+1 -- surprise -- fear, joy, surprise
+1 -- surprised -- surprise
+1 -- surprising -- surprise
+1 -- surprisingly -- anticipation, surprise
+1 -- surrender -- fear, sadness
+1 -- surrogate -- trust
+1 -- surround -- anticipation
+1 -- surveillance -- fear
+1 -- suspect -- fear
+1 -- suspense -- anticipation, fear, surprise
+1 -- suspension -- fear
+1 -- suspicion -- fear
+1 -- suspicious -- anger, anticipation
+1 -- swamp -- disgust, fear
+1 -- swampy -- disgust, fear
+1 -- swarm -- disgust
+1 -- swastika -- anger, fear
+1 -- swear -- trust
+1 -- sweat -- fear
+1 -- sweet -- anticipation, joy, surprise, trust
+1 -- sweetheart -- anticipation, joy, sadness, trust
+1 -- swell -- fear
+1 -- swerve -- fear, surprise
+1 -- swig -- disgust
+1 -- swim -- anticipation, fear, joy
+1 -- swine -- disgust
+1 -- symmetry -- joy, trust
+1 -- sympathetic -- fear, joy, sadness, trust
+1 -- sympathize -- sadness
+1 -- sympathy -- sadness
+1 -- symphony -- anticipation, joy
+1 -- synchronize -- anticipation, joy, surprise, trust
+1 -- syncope -- fear, sadness, surprise
+1 -- synergistic -- trust
+1 -- synod -- trust
+1 -- synonymous -- fear, trust
+1 -- syringe -- fear
+1 -- system -- trust
+1 -- taboo -- disgust, fear
+1 -- tabulate -- anticipation
+1 -- tackle -- anger, surprise
+1 -- tactic -- fear, trust
+1 -- taint -- sadness
+1 -- talon -- anger, fear
+1 -- tandem -- trust
+1 -- tantalize -- anticipation, joy, surprise
+1 -- tantamount -- trust
+1 -- tariff -- anger, disgust
+1 -- tarnish -- disgust, sadness
+1 -- tasteless -- disgust
+1 -- taught -- trust
+1 -- taunt -- anger, fear, sadness
+1 -- tawny -- disgust
+1 -- tax -- sadness
+1 -- teach -- joy, surprise, trust
+1 -- teacher -- trust
+1 -- team -- trust
+1 -- tearful -- disgust, fear, sadness
+1 -- tease -- anger, anticipation, sadness, fear
+1 -- teem -- disgust
+1 -- temperate -- trust
+1 -- tempest -- anger, anticipation, fear, sadness, surprise
+1 -- tender -- joy, trust
+1 -- tenderness -- joy
+1 -- tension -- anger
+1 -- terminal -- fear, sadness
+1 -- terminate -- sadness
+1 -- termination -- sadness
+1 -- termite -- disgust
+1 -- terrible -- anger, disgust, fear, sadness
+1 -- terribly -- sadness
+1 -- terrific -- sadness
+1 -- terror -- fear
+1 -- terrorism -- anger, disgust, fear, sadness
+1 -- terrorist -- anger, disgust, fear, sadness, surprise
+1 -- terrorize -- anger, fear, sadness
+1 -- testament -- anticipation, trust
+1 -- testimony -- trust
+1 -- tetanus -- disgust
+1 -- thankful -- joy
+1 -- thanksgiving -- joy
+1 -- theft -- anger, disgust, fear, sadness
+1 -- theism -- disgust
+1 -- theocratic -- anger, fear, sadness, trust
+1 -- theological -- trust
+1 -- theology -- anticipation
+1 -- theorem -- trust
+1 -- theory -- anticipation, trust
+1 -- therapeutic -- joy, trust
+1 -- thermocouple -- anticipation
+1 -- thermometer -- trust
+1 -- thief -- anger, disgust, fear, sadness, surprise
+1 -- thirst -- anticipation, sadness, surprise
+1 -- thirteenth -- fear
+1 -- thorny -- fear
+1 -- thought -- anticipation
+1 -- thoughtful -- trust
+1 -- thoughtless -- anger, disgust
+1 -- thrash -- anger, disgust, fear, sadness
+1 -- threat -- anger, fear
+1 -- threaten -- anger, anticipation, fear, disgust
+1 -- thresh -- anger, fear, sadness
+1 -- thrift -- disgust, trust
+1 -- thrill -- anticipation, fear, joy, surprise
+1 -- thrive -- anticipation, joy
+1 -- throb -- fear, sadness
+1 -- throne -- trust
+1 -- throttle -- anger
+1 -- thug -- anger, disgust, fear
+1 -- thump -- anger, fear
+1 -- thunder -- anger, fear
+1 -- thwart -- surprise
+1 -- tickle -- anticipation, joy, surprise, trust
+1 -- tiff -- anger
+1 -- tighten -- anger
+1 -- time -- anticipation
+1 -- timid -- fear, sadness
+1 -- timidity -- anticipation, fear
+1 -- tinsel -- joy
+1 -- tirade -- anger, disgust
+1 -- title -- trust
+1 -- toad -- disgust
+1 -- toast -- joy
+1 -- toilet -- disgust
+1 -- tolerate -- anger, sadness
+1 -- tomb -- sadness
+1 -- tomorrow -- anticipation
+1 -- toothache -- fear
+1 -- top -- anticipation, trust
+1 -- topple -- surprise
+1 -- torment -- anger, fear, sadness
+1 -- tornado -- fear
+1 -- torpedo -- anger
+1 -- torrent -- fear
+1 -- tortious -- anger, disgust
+1 -- torture -- anger, anticipation, disgust, fear, sadness
+1 -- touchy -- anger, sadness
+1 -- tough -- sadness, fear, anger
+1 -- toughness -- anger, fear, trust
+1 -- tower -- anticipation, fear
+1 -- toxic -- disgust
+1 -- toxin -- fear
+1 -- track -- anticipation
+1 -- tract -- fear
+1 -- trade -- trust
+1 -- tragedy -- fear, sadness
+1 -- trainer -- trust
+1 -- traitor -- anger, disgust, fear, sadness
+1 -- tramp -- disgust, fear, sadness
+1 -- tranquil -- joy
+1 -- tranquility -- joy, trust
+1 -- transaction -- trust
+1 -- transcendence -- anticipation, joy, surprise, trust
+1 -- transcript -- trust
+1 -- transitional -- anticipation
+1 -- translation -- trust
+1 -- trash -- disgust, sadness
+1 -- trashy -- disgust
+1 -- traumatic -- anger, fear, sadness
+1 -- travesty -- disgust, fear, sadness
+1 -- treacherous -- anger, disgust, fear
+1 -- treachery -- anger, fear, sadness, surprise
+1 -- treadmill -- anticipation
+1 -- treason -- anger, disgust, fear, surprise
+1 -- treasure -- anticipation, joy, trust
+1 -- treasurer -- trust
+1 -- treat -- anger, anticipation, disgust, fear, joy, sadness, surprise, trust
+1 -- tree -- anger, anticipation, disgust, joy, surprise, trust
+1 -- tremble -- fear
+1 -- tremor -- anger, anticipation, fear, sadness
+1 -- trepidation -- anticipation, fear, surprise
+1 -- trespass -- anger
+1 -- tribe -- trust
+1 -- tribulation -- fear, sadness
+1 -- tribunal -- anticipation, disgust, fear, trust
+1 -- tribune -- trust
+1 -- tributary -- anticipation
+1 -- trick -- surprise
+1 -- trickery -- anger, disgust, fear, sadness, surprise
+1 -- trip -- surprise, anger, sadness
+1 -- triumph -- anticipation, joy
+1 -- triumphant -- anticipation, joy, trust
+1 -- troll -- anger, fear
+1 -- trophy -- anticipation, joy, surprise, trust
+1 -- troublesome -- anger, fear
+1 -- truce -- joy, trust
+1 -- truck -- trust
+1 -- true -- joy, trust
+1 -- trump -- surprise
+1 -- truss -- trust
+1 -- trust -- trust
+1 -- trustee -- trust
+1 -- truth -- trust
+1 -- truthful -- trust
+1 -- truthfulness -- trust
+1 -- tumor -- fear
+1 -- tumour -- fear, sadness
+1 -- tumult -- anger, fear, surprise
+1 -- tumultuous -- anger, fear
+1 -- turbulence -- anger, fear
+1 -- turbulent -- fear
+1 -- turmoil -- anger, fear, sadness
+1 -- tussle -- anger
+1 -- tutelage -- trust
+1 -- twinkle -- anticipation, joy
+1 -- typhoon -- fear
+1 -- tyrannical -- anger, disgust, fear
+1 -- tyranny -- fear, sadness
+1 -- tyrant -- anger, disgust, fear, sadness
+1 -- ugliness -- disgust, fear, sadness
+1 -- ugly -- disgust
+1 -- ulcer -- anger, disgust, fear, sadness
+1 -- ultimate -- anticipation, sadness
+1 -- ultimately -- anticipation
+1 -- ultimatum -- anger, fear
+1 -- umpire -- trust
+1 -- unable -- sadness
+1 -- unacceptable -- sadness
+1 -- unaccountable -- anticipation, disgust, sadness, trust
+1 -- unacknowledged -- sadness
+1 -- unanticipated -- surprise
+1 -- unattainable -- anger, sadness
+1 -- unattractive -- disgust, sadness
+1 -- unbearable -- disgust, sadness
+1 -- unbeaten -- anticipation, joy, sadness, surprise
+1 -- unbridled -- anger, anticipation, fear, surprise
+1 -- unbroken -- trust
+1 -- uncanny -- fear, surprise
+1 -- uncaring -- anger, disgust, sadness
+1 -- uncertain -- anger, disgust, fear, surprise
+1 -- unclean -- disgust
+1 -- unconscionable -- disgust
+1 -- unconstrained -- joy
+1 -- uncontrollable -- anger, anticipation, surprise
+1 -- uncover -- surprise
+1 -- undecided -- anticipation, fear
+1 -- underestimate -- surprise
+1 -- underpaid -- anger, sadness
+1 -- understand -- trust
+1 -- undertaker -- sadness
+1 -- undertaking -- anticipation
+1 -- underwrite -- trust
+1 -- undesirable -- anger, disgust, fear, sadness
+1 -- undesired -- sadness
+1 -- undisclosed -- anticipation
+1 -- undiscovered -- surprise
+1 -- undoubted -- anticipation, disgust
+1 -- undying -- anticipation, joy, sadness, trust
+1 -- uneasiness -- anticipation, sadness
+1 -- uneasy -- disgust, fear
+1 -- uneducated -- sadness
+1 -- unemployed -- fear, sadness
+1 -- unequal -- anger, disgust, fear, sadness
+1 -- unequivocal -- trust
+1 -- unexpected -- anticipation, fear, joy, surprise
+1 -- unexpectedly -- surprise
+1 -- unexplained -- anticipation, sadness
+1 -- unfair -- anger, disgust, sadness
+1 -- unfairness -- anger, sadness
+1 -- unfaithful -- disgust
+1 -- unfavorable -- disgust, sadness
+1 -- unfold -- anticipation
+1 -- unforeseen -- surprise
+1 -- unforgiving -- anger, sadness
+1 -- unfortunate -- sadness
+1 -- unfriendly -- anger, disgust, fear, sadness
+1 -- unfulfilled -- anger, anticipation, sadness, surprise
+1 -- ungodly -- sadness
+1 -- ungrateful -- anger, disgust
+1 -- unguarded -- surprise
+1 -- unhappiness -- sadness
+1 -- unhappy -- anger, disgust, sadness
+1 -- unhealthy -- disgust, fear, sadness
+1 -- unholy -- fear
+1 -- unification -- anticipation, joy, trust
+1 -- unimaginable -- surprise
+1 -- unimportant -- sadness
+1 -- uninspired -- sadness
+1 -- unintended -- surprise
+1 -- unintentional -- surprise
+1 -- unintentionally -- surprise
+1 -- uninterested -- sadness
+1 -- uninteresting -- sadness
+1 -- uninvited -- sadness
+1 -- unique -- surprise
+1 -- united -- trust
+1 -- unity -- trust
+1 -- university -- anticipation
+1 -- unjust -- anger
+1 -- unjustifiable -- anger, disgust, fear
+1 -- unkind -- anger, disgust, fear, sadness
+1 -- unknown -- anticipation, fear
+1 -- unlawful -- anger, disgust, fear, sadness
+1 -- unlucky -- anger, disgust, fear, sadness
+1 -- unmanageable -- disgust
+1 -- unnatural -- disgust, fear
+1 -- unpaid -- anger, sadness
+1 -- unpleasant -- disgust, sadness
+1 -- unpopular -- disgust, sadness
+1 -- unprecedented -- surprise
+1 -- unpredictable -- surprise
+1 -- unpublished -- anticipation, sadness
+1 -- unquestionable -- trust
+1 -- unquestionably -- trust
+1 -- unquestioned -- trust
+1 -- unreliable -- trust
+1 -- unrequited -- sadness
+1 -- unresolved -- anticipation
+1 -- unrest -- fear, sadness
+1 -- unruly -- anger, disgust, fear
+1 -- unsafe -- fear
+1 -- unsatisfactory -- disgust
+1 -- unsatisfied -- disgust, sadness
+1 -- unseat -- sadness
+1 -- unsettled -- anger, disgust, fear
+1 -- unsightly -- disgust
+1 -- unspeakable -- fear
+1 -- unstable -- fear, surprise
+1 -- unsteady -- fear
+1 -- unsuccessful -- sadness
+1 -- unsurpassed -- anticipation, fear, joy, trust
+1 -- unsuspecting -- surprise
+1 -- unsympathetic -- anger
+1 -- unthinkable -- anger, disgust, fear
+1 -- untidy -- disgust
+1 -- untie -- joy
+1 -- untitled -- sadness
+1 -- untold -- anticipation
+1 -- untoward -- anger, disgust
+1 -- untrustworthy -- anger
+1 -- unverified -- anticipation
+1 -- unwashed -- disgust
+1 -- unwavering -- trust
+1 -- unwelcome -- sadness
+1 -- unwell -- sadness
+1 -- unworthy -- disgust
+1 -- upheaval -- anger, fear, sadness
+1 -- uphill -- anticipation, fear
+1 -- uplift -- anticipation, joy, trust
+1 -- upright -- trust
+1 -- uprise -- anger, anticipation, fear
+1 -- upset -- anger, sadness
+1 -- urgency -- anticipation, fear, surprise
+1 -- urgent -- anticipation, fear, surprise
+1 -- urn -- sadness
+1 -- usher -- trust
+1 -- usual -- trust
+1 -- usurp -- anger
+1 -- usurped -- anger, fear
+1 -- utopian -- anticipation, joy, trust
+1 -- vacation -- anticipation, joy
+1 -- vacuous -- disgust
+1 -- vainly -- disgust, sadness
+1 -- validity -- fear
+1 -- valor -- trust
+1 -- vampire -- anger, disgust, fear
+1 -- vanish -- surprise
+1 -- vanished -- fear, sadness, surprise
+1 -- variable -- surprise
+1 -- varicella -- disgust, fear, sadness
+1 -- veal -- sadness, trust
+1 -- veer -- fear, surprise
+1 -- vegetative -- disgust, sadness
+1 -- vehement -- anger, fear
+1 -- vendetta -- anger, fear, sadness
+1 -- venerable -- anticipation, joy, trust
+1 -- vengeance -- anger
+1 -- vengeful -- anger, fear
+1 -- venom -- anger, disgust, fear
+1 -- venomous -- anger, disgust, fear
+1 -- vent -- anger
+1 -- veracity -- anticipation, joy, surprise, trust
+1 -- verdict -- fear
+1 -- verge -- anticipation, fear
+1 -- verification -- trust
+1 -- verify -- trust
+1 -- verily -- trust
+1 -- vermin -- anger, disgust, fear
+1 -- vernal -- joy
+1 -- versus -- anger
+1 -- vertigo -- fear
+1 -- vesicular -- disgust
+1 -- veteran -- trust
+1 -- veto -- anger
+1 -- vicar -- trust
+1 -- vicious -- anger, disgust
+1 -- victim -- anger, fear, sadness
+1 -- victimize -- anger, disgust, fear, sadness, surprise
+1 -- victor -- joy
+1 -- victorious -- joy
+1 -- victory -- anticipation, joy, trust
+1 -- vigil -- anticipation
+1 -- vigilance -- anticipation, trust
+1 -- vigilant -- fear, trust
+1 -- vigorous -- trust
+1 -- villager -- trust
+1 -- villain -- fear
+1 -- villainous -- anger, disgust, fear
+1 -- vindicate -- anger
+1 -- vindication -- anticipation, joy, trust
+1 -- vindictive -- anger, disgust
+1 -- violation -- anger, fear, sadness, surprise
+1 -- violence -- anger, fear, sadness
+1 -- violent -- anger, disgust, fear, surprise
+1 -- violently -- anger, disgust, fear, sadness
+1 -- viper -- fear
+1 -- virgin -- trust
+1 -- virginity -- anticipation
+1 -- virtue -- trust
+1 -- virtuous -- joy, trust
+1 -- virulence -- anger, fear
+1 -- vision -- anticipation
+1 -- visionary -- anticipation, joy, trust
+1 -- visitor -- anticipation, joy
+1 -- visor -- anticipation, surprise
+1 -- vitality -- joy, trust
+1 -- vivacious -- joy
+1 -- vivid -- joy
+1 -- volatility -- anger, anticipation, fear, surprise
+1 -- volcano -- fear, surprise
+1 -- volunteer -- anticipation, fear, joy, trust
+1 -- voluptuous -- anticipation, joy
+1 -- vomit -- disgust
+1 -- vote -- anger, anticipation, joy, sadness, surprise, trust
+1 -- votive -- trust
+1 -- vouch -- trust
+1 -- voucher -- trust
+1 -- vow -- anticipation, joy, trust
+1 -- voyage -- anticipation
+1 -- vulgar -- disgust
+1 -- vulgarity -- anger, disgust, sadness
+1 -- vulnerability -- fear, sadness
+1 -- vulture -- disgust, fear
+1 -- waffle -- anger, sadness
+1 -- wage -- joy
+1 -- wail -- fear, sadness
+1 -- wait -- anticipation
+1 -- wallow -- disgust, sadness
+1 -- wan -- fear, sadness
+1 -- wane -- sadness
+1 -- want -- sadness
+1 -- war -- fear
+1 -- warden -- anger, fear, trust
+1 -- ware -- fear
+1 -- warfare -- anger, fear, sadness
+1 -- warlike -- anger, fear
+1 -- warlock -- fear
+1 -- warn -- anticipation, fear, surprise, trust
+1 -- warp -- anger, sadness
+1 -- warranty -- trust
+1 -- warrior -- anger, fear
+1 -- wart -- disgust
+1 -- wary -- fear
+1 -- waste -- disgust, anger, fear, sadness
+1 -- wasteful -- anger, disgust, sadness
+1 -- watch -- anticipation, fear
+1 -- watchdog -- trust
+1 -- watchful -- trust
+1 -- watchman -- trust
+1 -- waver -- fear
+1 -- weakly -- fear, sadness
+1 -- wealth -- joy, trust
+1 -- wear -- trust
+1 -- wearily -- sadness
+1 -- weariness -- sadness
+1 -- weary -- sadness
+1 -- weed -- sadness
+1 -- weep -- sadness
+1 -- weigh -- anticipation, trust
+1 -- weight -- anticipation, disgust, fear, joy, sadness, surprise, trust
+1 -- weighty -- fear
+1 -- weird -- disgust
+1 -- weirdo -- fear
+1 -- welcome -- joy
+1 -- wench -- anger, disgust
+1 -- whim -- anticipation, joy, surprise
+1 -- whimper -- fear, sadness
+1 -- whimsical -- joy
+1 -- whine -- disgust, sadness
+1 -- whip -- anger
+1 -- whirlpool -- fear
+1 -- whirlwind -- fear
+1 -- whiteness -- joy
+1 -- wholesome -- trust
+1 -- whore -- disgust
+1 -- wicked -- fear
+1 -- wickedness -- disgust
+1 -- widow -- sadness
+1 -- widower -- sadness
+1 -- wild -- surprise
+1 -- wilderness -- anticipation, fear, sadness
+1 -- wildfire -- fear, sadness, surprise
+1 -- willful -- anger, sadness
+1 -- wimp -- disgust, fear
+1 -- wimpy -- anger, disgust, fear, sadness
+1 -- wince -- anger, disgust, fear, sadness
+1 -- winner -- anticipation, joy, surprise
+1 -- win -- anticipation, disgust, joy, sadness, surprise, trust
+1 -- winning -- anticipation, joy
+1 -- wireless -- anger, anticipation, surprise
+1 -- wisdom -- trust
+1 -- wishful -- anticipation
+1 -- witch -- anger, disgust, fear
+1 -- witchcraft -- anger, fear, sadness
+1 -- withdraw -- sadness
+1 -- wither -- sadness, disgust
+1 -- withstand -- anticipation, fear
+1 -- witness -- trust
+1 -- witty -- joy
+1 -- wizard -- anticipation, surprise
+1 -- woe -- disgust, fear, sadness
+1 -- woeful -- sadness
+1 -- woefully -- disgust, sadness
+1 -- wonderful -- joy, surprise, trust
+1 -- wonderfully -- joy, surprise
+1 -- wont -- anticipation
+1 -- wop -- anger
+1 -- word -- trust, anger
+1 -- worm -- anticipation, surprise
+1 -- worn -- sadness
+1 -- worried -- sadness
+1 -- worry -- anticipation, fear, sadness
+1 -- worsen -- disgust, sadness
+1 -- worship -- anticipation, fear, joy, trust
+1 -- worthless -- anger, disgust, sadness
+1 -- worthy -- trust
+1 -- wot -- trust
+1 -- wound -- anger, fear, sadness
+1 -- wrangle -- anger, disgust, fear, sadness
+1 -- wrath -- anger, fear
+1 -- wreak -- anger
+1 -- wreck -- anger, disgust, fear, sadness, surprise
+1 -- wretch -- anger, disgust, sadness
+1 -- wretched -- disgust, sadness
+1 -- wring -- anger
+1 -- wrinkle -- sadness
+1 -- wrongdoing -- anger, disgust, sadness
+1 -- wrongful -- anger, disgust, sadness
+1 -- wrongly -- anger, fear, sadness
+1 -- xenophobia -- fear
+1 -- yearn -- anticipation, joy, trust
+1 -- yell -- anger, fear, surprise
+1 -- yelp -- anger, fear, surprise
+1 -- youth -- anger, anticipation, fear, joy, surprise
+1 -- zany -- surprise
+1 -- zeal -- anticipation, joy, surprise, trust
+1 -- zealous -- joy, trust
+1 -- zest -- anticipation, joy, trust
+1 -- divine -- trust, joy
+1 -- rough -- fear, anger, disgust
+1 -- uncertainty -- anticipation, surprise
+1 -- obscurity -- fear
+1 -- fathom -- anticipation
+1 -- irregularity -- sadness
+1 -- bite -- fear, anger
+1 -- burn -- fear, anticipation
