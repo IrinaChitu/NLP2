@@ -2,3 +2,5 @@
 __pycache__
 .vscode
 .env
+random-forest.pkl
+tfidf.pkl
