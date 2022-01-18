@@ -1,6 +1,6 @@
 Team:
 - Anca Sotir (emotion analysis)
-- Florin Manghiuc (autorship)
+- Florin Manghiuc (autorship + API)
 - Irina Chitu (dataset + simlarity)
 
 Github:
